@@ -1,7 +1,7 @@
-site_name: Code School Curriculum
-site_url: https://curriculum-wlk2.onrender.com
+site_name: Code School SideQuests
+site_url: https://sidequests.onrender.com
 site_author: dij
-site_description: Code School Curriculum
+site_description: Code School SideQuests allows students to tackle the wider world of Computer Science and document their Personal Journeys and Developments as they learn Software Development and BEYOND
 copyright: Powered by CodeCrew
 docs_dir: docs
 # nav:
