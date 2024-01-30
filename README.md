@@ -10,11 +10,13 @@ It should contain a single file titled index.md or README.md along with a folder
 To build and run the curriculum site locally,
 
 1. Download Python [here](https://www.python.org/downloads/)
-2. From a command line, go to your cscurr folder and run
+2. From a command line, go to your SIDEQUESTS folder and run
 
     pip install mkdocs
 
     pip install mkdocs-material
+
+    cd src
     
     mkdocs build
     

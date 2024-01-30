@@ -1,11 +1,5 @@
 ![Code Crew Logo](/Imgs/codecrewlogo.png  "image_tooltip")
 
-<!-- <form id="entryForm">
-    <label>Class #</label>
-    <input type="password" />
-    <input type="button" value="Enter" />
-</form> -->
-
 ## Welcome to Code School!
 
 Below you'll find our initial setup guide to get started with course work, the curriculum table of contents and links to additional materials to aid you in any specializations (Side Quests) you may want to pursue as you progress through the course.
