@@ -6,6 +6,8 @@ This corner of the curriculum is designed to be a place for info on deeper conce
 
 # HOW-TO
 
+#### NOTE: Each specific role currently has a list of terms that it will be helpful for you to look up. Module 1 does contain a larger idea map and links to various career paths and subjects to study for them. Stay tuned for more in depth updates on each job type in each module.
+
 Along your journey, through the course, each Module's Side Quests will be laid out as such:
 
 ## [Module 1](/Side_Quests/Module_1/)
@@ -30,4 +32,4 @@ Learn more concepts, build practice projects, build final prototype, prepare/tak
 
 Starting in Module 1, you'll find guides containing organized learning paths for some of the specializations mentioned, provided by [Roadmap.sh](https://roadmap.sh/)
 
-[Computer Science](https://roadmap.sh/computer-science)
+[Computer Science Roadmap](https://roadmap.sh/computer-science)

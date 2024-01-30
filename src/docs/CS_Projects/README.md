@@ -1,4 +1,4 @@
-### Code School App Suite
+### Code School App Suite (And Ideas)
 
 TheCodeQ (The Queue)
 - students can hold their place in line for assistance
@@ -44,7 +44,7 @@ Finances App / Bitcoin Wallet
 - bitcoin wallet
 
 
-### Pending Org Structure
+<!-- ### Pending Org Structure
 
 Game Studio {}
 App Studio {}
@@ -52,9 +52,9 @@ Data {}
 Drones {}
 Support Team {}
 PMs {}
-QA {}
+QA {} -->
 
-### Curriculum Project Lineup
+<!-- ### Curriculum Project Lineup
 
 1
 Portfolio
@@ -86,4 +86,4 @@ Lending Library - dotnet tdd - Dictionary & LinkedList
 LINQ in Manhattan
 Async Inn
 ecommerce
-cookie stand
+cookie stand -->
