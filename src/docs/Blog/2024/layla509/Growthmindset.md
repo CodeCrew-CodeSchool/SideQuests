@@ -9,4 +9,4 @@ Growth Mindset means to me is to reprogram your way of thinking. To reshore your
 <li>Surround yourself with Growth minded people
 </ul>
 <img src=
-https://i0.wp.com/sciennesprimaryschool.com/wp-content/uploads/2018/04/growth-mindset.jpg?fit=1200%2C1200&ssl=1
+https://i0.wp.com/sciennesprimaryschool.com/wp-content/uploads/2018/04/growth-mindset.jpg?fit=1200%2C1200&ssl=1/>
