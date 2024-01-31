@@ -9,5 +9,5 @@ Growth Mindset = A infinite loop of evolving and adapting to your current realit
 <ol>
   <li>Recognize when its time to be the student vs the teacher</li>
   <li>If you dont feed your mental it will stave</li>
-  <li>Don't be afraid to ask for help</li>
+  <li>Balance Self efficiency and Teamwork</li>
 </ol>
