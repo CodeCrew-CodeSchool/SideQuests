@@ -1,10 +1,10 @@
-# Growth Midset :brain: 
+# Growth Mindset 🧠
 
-## What does growth midset mean to me?
+## What does growth mindset mean to me?
 
-Growth Midset to me means always being open and ready to retain new information.  In order to grow, you have to be willing to learn new things.  If I dont have an open midset while trying to grow in any stage in life, there is no real opportunity for self-improvement or personal developmet 
+Growth Mindset to me means always being open and ready to retain new information.  In order to grow, you have to be willing to learn new things.  If I dont have an open midset while trying to grow in any stage in life, there is no real opportunity for self-improvement or personal developmet 
 
-## 3 reminders on how to keep a *Growth Midset*
+## 3 reminders on how to keep a *Growth Mindset*
 
 <ol>
     <li>Remember my "Why"</li>
