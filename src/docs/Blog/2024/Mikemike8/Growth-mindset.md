@@ -3,7 +3,7 @@
 
 ### What does Growth mind set means to me ?
  
- Growth mindset means to me you are always on the constant growth of learning. Whether its a journey educationally , or just improving the mind .  Its the will itself  to Embrace  the challenge of new a concept where's there's ever evolving world there's an ever growing mind.
+ Growth mindset means to me you are always on the constant growth of learning. Whether its a journey educationally , or just improving the mind .  Its the will itself  to Embrace  the challenge of new a concept that makes you human .Where's there's ever evolving world there's an ever growing mind.
 
  # Reminder
  Have Patience
