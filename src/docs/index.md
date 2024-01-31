@@ -51,7 +51,7 @@ Below you'll find our initial setup guide to get started with course work, the c
  
  [Johnson, Lakeesha](/Blog/2024/)
  
- [Johnson, Maya](/Blog/2024/)
+ [Johnson, Maya](/Blog/2024/Mayaangelouj)
  
  [Jones, Makenzie](/Blog/2024/)
  
