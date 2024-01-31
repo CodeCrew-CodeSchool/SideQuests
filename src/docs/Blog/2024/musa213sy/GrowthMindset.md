@@ -4,7 +4,7 @@ Growth mindset  to me is being able to learn something you never knew before. It
 
 ## Reminders
 <ul>
-<li>Finsh the task at hand</li>
+<li>Finish the task at hand</li>
 <li>look for ways to improve</li>
 <li>Be encouraged to face challenges</li>
 </ul>
