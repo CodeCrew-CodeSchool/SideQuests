@@ -8,7 +8,9 @@ Growth mindset  to me is being able to learn something you never knew before. It
 <li>look for ways to improve</li>
 <li>Be encouraged to face challenges</li>
 </ul>
-<img src=
+<!-- <img src=
 'https://swanhose.com/cdn/shop/articles/water-plant-growth.jpg?v=1683652693'/>
 <img src="https://i0.wp.com/media.execunet.com/m/number-100.jpg
-"/>
+"/> -->
+
+![](https://i0.wp.com/media.execunet.com/m/number-100.jpg)
