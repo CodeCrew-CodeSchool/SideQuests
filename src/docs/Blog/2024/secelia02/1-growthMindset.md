@@ -6,8 +6,6 @@ A growth mindset sees challenges as opportunities, embraces effort as the path t
 
 **How to Stay in a Growth Mindset**
 
-<blockquote>
-
 - **Have Resilience in the Face of Challenges:** <br />
   Life is full of obstacles, curveballs, and unexpected turns. Having a growth mindset equips you with the mental resilience to navigate these challenges. Instead of throwing in the towel when faced with difficulties, you see them as opportunities to learn and grow. <br />
 - **Embrace Effort as the Path to Mastery:** <br />
@@ -15,8 +13,6 @@ A growth mindset sees challenges as opportunities, embraces effort as the path t
 - **Don't Be Afraid to Fail:** <br />
   In a fixed mindset, the fear of failure can hinder progress. A growth mindset, on the other hand, sees failure as a stepping stone to success. It encourages a love for learning, pushing you to constantly improve and refine your skills.
 
-</blockquote>
-
 I am currently reading "Mindset: The New Psychology of Success" by Carol Dweck. It is an excellent resource for cultivating a growth mindset.
 
-<p align="center"><img src="Mindset book.jpg" alt="Mindset by Carol Dweck" width="300"></p>
+![Mindset by Carol Dweck](<Mindset book-1.jpg>)
