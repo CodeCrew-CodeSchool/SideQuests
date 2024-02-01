@@ -2,7 +2,7 @@
 
 ***
 
-![Growth Mindset](C:\Users\crish\Downloads\0.png)
+![Growth Mindset](./0.png)
 
 ***
 
