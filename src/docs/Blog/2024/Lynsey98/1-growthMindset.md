@@ -6,9 +6,7 @@ There are 5 main catagories of mindset.
 Now lets explore the catagories and the differces between a _fixed mindset_ and a **growth mindset**
 
 1. ### <ins>Challenges</ins>
-
  - _Avoids_
-
  - **Embraces**
 
 2. ### <ins>Obstacles</ins>
