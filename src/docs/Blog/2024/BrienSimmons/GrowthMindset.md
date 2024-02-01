@@ -10,7 +10,7 @@
 - Meet regularly with a trusted person for a half-hour a week in which you discuss each other's goals.
 - Remove what will challenge your focus. 
 
-### Self Reflection>
+### Self Reflection
 - Meditate
 - Constantly evaluate your strengths
 - Keep setting goals
