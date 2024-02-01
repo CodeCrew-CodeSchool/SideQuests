@@ -89,7 +89,7 @@ Below you'll find our initial setup guide to get started with course work, the c
  
  [Shotwell, Jervontae](/Blog/2024/)
  
- [Simmons, Brien](/Blog/2024/)
+ [Simmons, Brien](/Blog/2024/BrienSimmons)
  
  [Simpson, Matthew](/Blog/2024/PublicKip)
  
