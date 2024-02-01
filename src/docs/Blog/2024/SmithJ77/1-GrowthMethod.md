@@ -2,11 +2,7 @@
 
 ## What is Growth Mindset?
 
-
-
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/black-woman-thinking-gesture-cartoon-flat-illustration-close-up_849906-14105.jpg" width="100" />
-</p>
+<img src="https://img.freepik.com/premium-photo/black-woman-thinking-gesture-cartoon-flat-illustration-close-up_849906-14105.jpg" width="500" height="300">
 
 A growth mindset is the belief that abilities and intelligence can be developed through effort, learning, and perseverance. It contrasts with a fixed mindset, which sees capabilities as innate and unchangeable. Embracing a growth mindset fosters resilience, motivation, and a positive attitude toward challenges, promoting continuous learning and personal development
 
