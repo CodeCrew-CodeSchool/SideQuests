@@ -7,7 +7,7 @@ A Growth Mindset is  the belief that a person's capacities and talents can impro
 -**Loss of Relationship(s)** ![BrokenHeart](https://th.bing.com/th/id/R.c36a76c344f2fd5946682bbb1f76437a?rik=TkkmjoiAKcBv8Q&riu=http%3a%2f%2fpngimagesfree.com%2fHeart%2fbroken-heart-png-image.png&ehk=rlwHc%2fsKVplLn6e6UK6D6kvKh8FF92SAMJ1doVMaSJw%3d&risl=&pid=ImgRaw&r=0)
 -**Loss of Money** ![NoMoney](https://static.vecteezy.com/system/resources/previews/013/589/589/non_2x/businessman-has-no-money-illustration-vector.jpg)
 
-In this blog I will better explain Growth Mindset, What it means to have a growth mindset, What a growth mindset looks like, and how to achieve a Growth Mindset. 
+In this blog I will better explain Growth Mindset, What it means to have a growth mindset, What a growth mindset looks like, and how to start thinking with a Growth Mindset. 
 
 ***What it Means to have a Growth Mindset***
 
