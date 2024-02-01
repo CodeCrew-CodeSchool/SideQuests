@@ -28,3 +28,5 @@ The first step would be to view growth mindset examples versus fixed mindset exa
 
 A growth mindset is vital to progression. Without growth we become stagnant or stuck. with a fixed mindset there is no room for growth. In an ever-changing world one needs to be open to change and capable of change. You can only grow if you change your response, change your thought process, or think of something new and different. You can have a growth mindset if you live by this saying. Learn something new everyday! 
 
+![Growth](https://www.growthforce.com/hubfs/Business%20Growth%20Stages.jpeg)
+
