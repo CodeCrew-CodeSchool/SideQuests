@@ -7,3 +7,4 @@ A growth mindset is a set of beliefs and actions that create progress despite ch
 - Treat obstacles as silly adventures/tasks to reflect on later
 
 - It's all for character development!
+
