@@ -2,7 +2,7 @@
 
 ***
 
-![Growth Mindset](C:\Users\crish\Downloads\0.png)
+![Growth Mindset](https://imageio.forbes.com/specials-images/imageserve/6441434670e40c9bcb23907c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds)
 
 ***
 
