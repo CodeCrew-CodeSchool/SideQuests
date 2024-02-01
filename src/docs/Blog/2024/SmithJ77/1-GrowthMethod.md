@@ -4,7 +4,7 @@
 
 <img src="https://img.freepik.com/premium-photo/black-woman-thinking-gesture-cartoon-flat-illustration-close-up_849906-14105.jpg" width="150" height="100"/>
 
-Growth mindset, to me, is allowing you to expand your knowledge and constantly learning and retaining information.
+A growth mindset is the belief that abilities and intelligence can be developed through effort, learning, and perseverance. It contrasts with a fixed mindset, which sees capabilities as innate and unchangeable. Embracing a growth mindset fosters resilience, motivation, and a positive attitude toward challenges, promoting continuous learning and personal development
 
 
 
