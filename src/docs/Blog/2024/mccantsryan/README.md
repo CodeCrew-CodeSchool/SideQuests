@@ -1,5 +1,7 @@
 # Introduction
 
+## chicken wings
+
 ### Growth Mindset
  I would define a "Growth mindset"  is an attempt of self preservation motive that will take an individual to a benefitial goal
  My first way to stay focused is to indulge in my  coding activities everyday.
