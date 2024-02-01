@@ -77,7 +77,7 @@ Below you'll find our initial setup guide to get started with course work, the c
  
  [Patterson, Jordan](/Blog/2024/)
  
- [Payne, Katerra](/Blog/2024/)
+ [Payne, Katerra](/Blog/2024/Katerra_Payne)
  
  [Purdy, Shakyra](/Blog/2024/)
  

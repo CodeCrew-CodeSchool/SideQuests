@@ -1,4 +1,4 @@
-# Growth Mindset :lightbulb:
+# Growth Mindset 🌻
 
 
 ## **What is a Growth Mindset?**
@@ -16,6 +16,8 @@ To keep a growth mindset, you must:
 4. **Keep moving forward**
 
 
-*Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things..and curiosity keeps leading us down new paths.* - Walt Disney
+*"Around here, however, we don't look backwards for very long. We keep moving forward, opening up new doors and doing new things..and curiosity keeps leading us down new paths."* 
 
-![Alt text](image-1.png)
+-Walt Disney
+
+![Alt text](image-2.png)
