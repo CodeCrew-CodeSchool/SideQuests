@@ -8,7 +8,9 @@ A growth mindset is a set of beliefs and actions that create progress despite ch
 
 - It's all for character development!
 
-
+> "One man can change the world."
+>
+> -- <cite>Big Sean</cite>
 
 <img src="./Naruto_Growth_Mindset_Inspiration">
 
