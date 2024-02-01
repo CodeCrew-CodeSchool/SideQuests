@@ -11,9 +11,9 @@ Now lets explore the catagories and the differces between a _fixed mindset_ and 
 
 2. ### <ins>Obstacles</ins>
 
-- _loses focus_
+    - _loses focus_
 
-- **Persists**
+    - **Persists**
 
 3. ### <ins>Effort</ins>
 
