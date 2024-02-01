@@ -11,4 +11,3 @@ Growth Mindset = A infinite loop of evolving and adapting to your current realit
   <li>If you don't feed your mental it will stave</li>
   <li>Balance Self Efficiency And Teamwork</li>
 </ol>
-
