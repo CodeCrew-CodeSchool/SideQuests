@@ -6,17 +6,31 @@
 
 ### Self Disciple
 
-- > Try to block out 15 minutes a day toward achieving an important goal that could otherwise be left undone.
-- Meet regularly with a trusted person for a half-hour a week in which you discuss each other's goals.
-- Remove what will challenge your focus. 
+<ul>
 
-### Self Reflection>
-- Meditate
-- Constantly evaluate your strengths
-- Keep setting goals
+<li>Try to block out 15 minutes a day toward achieving an important goal that could otherwise be left undone.<li>
+<li>Meet regularly with a trusted person for a half-hour a week in which you discuss each other's goals.<li>
+<li>Remove what will challenge your focus.<li>
 
-### Goals>
-- Figure out your short term goals
-- Figure out your long term goals
-- Priortize all of your goals in order to what will be most beneficial
+<ul>
+
+### Self Reflection
+
+<ul>
+
+<li>Meditate<li>
+<li>Constantly evaluate your strengths<li>
+<li>Keep setting goals<li>
+
+<ul>
+
+### Goals
+
+<ul>
+
+<li>Figure out your short term goals<li>
+<li>Figure out your long term goals<li>
+<li>Priortize all of your goals in order to what will be most beneficial<li>
+
+<ul>
 

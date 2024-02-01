@@ -7,7 +7,7 @@ A Growth Mindset is  the belief that a person's capacities and talents can impro
 -**Loss of Relationship(s)** ![BrokenHeart](https://th.bing.com/th/id/R.c36a76c344f2fd5946682bbb1f76437a?rik=TkkmjoiAKcBv8Q&riu=http%3a%2f%2fpngimagesfree.com%2fHeart%2fbroken-heart-png-image.png&ehk=rlwHc%2fsKVplLn6e6UK6D6kvKh8FF92SAMJ1doVMaSJw%3d&risl=&pid=ImgRaw&r=0)
 -**Loss of Money** ![NoMoney](https://static.vecteezy.com/system/resources/previews/013/589/589/non_2x/businessman-has-no-money-illustration-vector.jpg)
 
-In this blog I will better explain Growth Mindset, What it means to have a growth mindset, What a growth mindset looks like, and how to achieve a Growth Mindset. 
+In this blog I will better explain Growth Mindset, What it means to have a growth mindset, What a growth mindset looks like, and how to start thinking with a Growth Mindset. 
 
 ***What it Means to have a Growth Mindset***
 
@@ -27,4 +27,6 @@ The first step would be to view growth mindset examples versus fixed mindset exa
 **Conclusion**
 
 A growth mindset is vital to progression. Without growth we become stagnant or stuck. with a fixed mindset there is no room for growth. In an ever-changing world one needs to be open to change and capable of change. You can only grow if you change your response, change your thought process, or think of something new and different. You can have a growth mindset if you live by this saying. Learn something new everyday! 
+
+![Growth](https://www.growthforce.com/hubfs/Business%20Growth%20Stages.jpeg)
 
