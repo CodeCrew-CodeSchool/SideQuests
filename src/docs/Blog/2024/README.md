@@ -59,4 +59,4 @@ Git CLI [A](https://git-scm.com/docs/git-add)-[C](https://git-scm.com/docs/git-c
 
 `git commit -m "mrjones91 blog and directions"` <!-- create your commit and set a message to log what contents are in this update -->
 
-`git push` <!-- push your changes back to the repo-->
+`git push` <!-- push your changes back to the repo--> 
