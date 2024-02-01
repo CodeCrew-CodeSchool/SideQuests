@@ -91,7 +91,7 @@ Below you'll find our initial setup guide to get started with course work, the c
  
  [Simmons, Brien](/Blog/2024/)
  
- [Simpson, Matthew](/Blog/2024/)
+ [Simpson, Matthew](/Blog/2024/PublicKip)
  
  [Smith, Janiqua](/Blog/2024/)
  
