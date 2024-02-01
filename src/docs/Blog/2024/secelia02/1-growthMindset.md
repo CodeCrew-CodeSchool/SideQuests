@@ -15,4 +15,4 @@ A growth mindset sees challenges as opportunities, embraces effort as the path t
 
 I am currently reading "Mindset: The New Psychology of Success" by Carol Dweck. It is an excellent resource for cultivating a growth mindset.
 
-<p align="center"><img src="Mindset book.jpg" alt="Mindset by Carol Dweck" width="300"></p>
+<p> align="center"><img src="Mindset book.jpg" alt="Mindset by Carol Dweck" width="300"></p>
