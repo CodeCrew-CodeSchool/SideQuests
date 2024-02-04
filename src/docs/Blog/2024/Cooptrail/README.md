@@ -2,6 +2,6 @@
 
 ## Introduction
 
-I am 30 years old and iam a multitalented person with the goal of accomplishing everything that interests me
+My name is Jeremy I am 30 years old and iam a multitalented hardworking and determined person with the goal of becoming a software engineer
 
-I learned about the code crew through a family member of mines coding is something i was once very familiar with and with the help of the people here im sure everything will return and i can learn something new
+I learned about the code crew through a family member of mines coding is something iam familiar with utilizing the help of the people here with CodeCrew im sure that the knowledge that i obtain will branch me off into a new career and differnt lifestyle 
