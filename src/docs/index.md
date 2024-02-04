@@ -51,7 +51,7 @@ Below you'll find our initial setup guide to get started with course work, the c
  
  [Johnson, Lakeesha](/Blog/2024/)
  
- [Johnson, Maya](/Blog/2024/)
+ [Johnson, Maya](/Blog/2024/Mayaangelouj)
  
  [Jones, Makenzie](/Blog/2024/)
  
@@ -77,7 +77,7 @@ Below you'll find our initial setup guide to get started with course work, the c
  
  [Patterson, Jordan](/Blog/2024/)
  
- [Payne, Katerra](/Blog/2024/)
+ [Payne, Katerra](/Blog/2024/Katerra_Payne)
  
  [Purdy, Shakyra](/Blog/2024/)
  
@@ -89,7 +89,7 @@ Below you'll find our initial setup guide to get started with course work, the c
  
  [Shotwell, Jervontae](/Blog/2024/)
  
- [Simmons, Brien](/Blog/2024/)
+ [Simmons, Brien](/Blog/2024/BrienSimmons)
  
  [Simpson, Matthew](/Blog/2024/PublicKip)
  
