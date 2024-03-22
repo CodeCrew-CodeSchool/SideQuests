@@ -1,7 +1,17 @@
-[Frontend Masters Course](https://frontendmasters.com/courses/algorithms/)
+# Data Structures and Algorithm Resources
 
-https://youtu.be/Uym4-KhP3Lc?si=B3PVUbHSCeE-DQNv
+### Fundamental Data Structures and Algorithms to Know by [ForrestKnight](https://www.youtube.com/@fknight)
 
-https://youtu.be/VpnZnFUHhIU?si=kS8hhWmLRTeQMSq8
+* [3 Types of Algorithms Every Programmer Needs to Know](https://youtu.be/Uym4-KhP3Lc?si=B3PVUbHSCeE-DQNv)
 
-https://youtu.be/ALPWOiUKIjY?si=zTCyyBKOkhWtUbyU
+* [The Data Structure You Use Matters a Lot](https://youtu.be/VpnZnFUHhIU?si=kS8hhWmLRTeQMSq8)
+
+* [How Data Structures & Algorithms are Actually Used](https://youtu.be/ALPWOiUKIjY?si=zTCyyBKOkhWtUbyU)
+
+### Practice on Leetcode
+
+* [Leetcode](https://leetcode.com)
+
+### Additional Courses
+
+* [Frontend Masters Course](https://frontendmasters.com/courses/algorithms/)
