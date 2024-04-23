@@ -19,8 +19,8 @@
     - Devs update on progress, delivarables, or blockers
     - users view progress, leave reviews
 
-5. odd ducks -> configurator bot like Meka ATL online insights
-Log City Fixes for the City - Powerline, Pot Holes, Community Improvements, Dilapidated Buildings
+5. Log City Fixes for the City - Powerline, Pot Holes, Community Improvements, Dilapidated Buildings
+    - odd ducks -> configurator bot like Meka ATL online insights
     - Public
     - user marks what issues they're about to submit
     - when ready, hit the [ + ] button to submit grabs current location and gives user option to confirm / rechoose what feature they're marking
@@ -35,13 +35,36 @@ Log City Fixes for the City - Powerline, Pot Holes, Community Improvements, Dila
     - workout notes, pic/video, charts of progress
 
 7. Finances App / Bitcoin Wallet
-    - Financial Helper
-    - Track debts
-    - Track savings
-    - create debt payment plans
-    - create savings plans
-    - link to resources?
-    - bitcoin wallet
+    - Financial Helper - AI
+        - This app should be a tool that the public can use to better manage their finances.
+        - Net Worth
+            Enter your total assets and debts to find your Net Worth
+            Set goals for the net worth you aspire to have
+            Receive income strategies - AI API integration?
+            Savings plans
+            Debt management
+        -Track debts
+        - Track savings
+        - create debt payment plans
+        - create savings plans
+        - link to resources?
+    - Bitcoin wallet
+        Lightning Network Integration - https://lightningdevkit.org/
+        - Lightning is an addon to the Bitcoin Network to allow for fast and seamless Bitcoin transactions
+
+    Tech Stack
+        Frontend
+            React Native - Android and iOS releases
+            Native Web - TBD
+        Server 
+            Express - Cost Efficient
+        Source Control
+            Github - https://github.com/CodeCrew-CodeSchool/
+        Integrations
+        - Call our Llama 3 API
+
+
+
 
 8. Video Platform
     - Livestream Shows
@@ -52,12 +75,17 @@ Log City Fixes for the City - Powerline, Pot Holes, Community Improvements, Dila
 9. Gaming Platform
 
 10. Learn to Code Platform
-- Schoology?
+11. Schoology?
 
 
-11. Chat Integrated Docs
+12. Chat Integrated Docs
 .docx, .md, html editor with sidebar for chat questions and suggestions
 
+13. Leetcode app
+
+14. Meta VR OS
+
+15. Code School Meta Llama 3 AI API Service
 
 <!-- ### Pending Org Structure
 
