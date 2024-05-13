@@ -17,31 +17,20 @@ Below you'll find our initial setup guide to get started with course work, the c
 
 ### Student Blogs
  
- [Bean, Aza](/Blog/2024/)
  
  [Bracho, Isabel](/Blog/2024/)
- 
- [Brown, Kayshanira](/Blog/2024/)
  
  [Buckner, Dominique](/Blog/2024/)
  
  [Cales, Zakkery](/Blog/2024/)
  
- [Cooper, Jeremy](/Blog/2024/)
- 
  [Cunningham, Caleb](/Blog/2024/)
  
  [Davis, Ebony](/Blog/2024/)
  
- [Dickson, Will](/Blog/2024/)
- 
  [Freeman, Steven](/Blog/2024/)
  
  [Frost, Lynsey](/Blog/2024/)
- 
- [Garner, LaChristopher](/Blog/2024/)
- 
- [Harris, Demosnhe](/Blog/2024/)
  
  [Harris, Michael](/Blog/2024/)
  
@@ -55,17 +44,9 @@ Below you'll find our initial setup guide to get started with course work, the c
  
  [Jones, Makenzie](/Blog/2024/)
  
- [Lanton, Jetyia](/Blog/2024/)
- 
- [Lofton, Camisha](/Blog/2024/)
- 
  [Malone, Quincy](/Blog/2024/)
  
  [McCants, Ryan](/Blog/2024/)
- 
- [McMillan, Layla](/Blog/2024/)
- 
- [McNair, Secelia](/Blog/2024/)
  
  [Moment, Kavious](/Blog/2024/)
  
@@ -75,13 +56,9 @@ Below you'll find our initial setup guide to get started with course work, the c
  
  [Moore, Brian](/Blog/2024/)
  
- [Patterson, Jordan](/Blog/2024/)
- 
  [Payne, Katerra](/Blog/2024/Katerra_Payne)
  
  [Purdy, Shakyra](/Blog/2024/)
- 
- [Richardson, Brandon](/Blog/2024/)
  
  [Rucker II, John](/Blog/2024/)
  
@@ -93,15 +70,7 @@ Below you'll find our initial setup guide to get started with course work, the c
  
  [Simpson, Matthew](/Blog/2024/PublicKip)
  
- [Smith, Janiqua](/Blog/2024/)
- 
  [Sy, Moussa](/Blog/2024/)
- 
- [Townsel, DeTarius](/Blog/2024/)
- 
- [Trejo Rodriguez, Uriel](/Blog/2024/)
- 
- [Walton, Cheyione](/Blog/2024/)
 
 ## Side Quests
 

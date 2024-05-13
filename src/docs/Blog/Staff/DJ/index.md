@@ -16,3 +16,9 @@ It should contain a single file titled index.md or README.md along with a folder
 
 [Module 1](./Module1/)
 
+### Blogs
+
+[Tech](./Tech/)
+
+[History](./History/)
+
