@@ -12,13 +12,13 @@ It should contain a single file titled index.md or README.md along with a folder
 
 ## DJ's Table of Contents
 
-[My Portfolio](./Portfolio/)
+[My Portfolio](/Portfolio/)
 
-[Module 1](./Module1/)
+[Module 1](/Module1/)
 
 ### Blogs
 
-[Tech](./Tech/)
+[Tech](/Tech/)
 
-[History](./History/)
+[History](/History/)
 
