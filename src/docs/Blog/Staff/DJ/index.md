@@ -14,7 +14,7 @@ It should contain a single file titled index.md or README.md along with a folder
 
 [My Portfolio](/Portfolio/)
 
-[Module 1](/Module1/)
+<!-- [Module 1](/Module1/) -->
 
 ### Blogs
 
