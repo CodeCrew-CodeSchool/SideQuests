@@ -13,7 +13,7 @@ Below you'll find our initial setup guide to get started with course work, the c
 
 ### Staff Blogs
 
-[DJ](/Blog/Staff/)
+[DJ](/Blog/Staff/DJ)
 
 ### Student Blogs
  

@@ -1,4 +1,6 @@
-### Code School App Suite (And Ideas)
+## Name: C Suite
+
+### Description: Code School App Suite (And Ideas)
 
 1. TheCodeQ (The Queue)
     - students can hold their place in line for assistance
@@ -64,8 +66,6 @@
         - Call our Llama 3 API
 
 
-
-
 8. Video Platform
     - Livestream Shows
     - Podcasts
@@ -75,8 +75,8 @@
 9. Gaming Platform
 
 10. Learn to Code Platform
-11. Schoology?
 
+11. Schoology?
 
 12. Chat Integrated Docs
 .docx, .md, html editor with sidebar for chat questions and suggestions
