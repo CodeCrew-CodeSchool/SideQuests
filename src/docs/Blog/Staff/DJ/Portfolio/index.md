@@ -2,9 +2,11 @@
 
 ### [Check out my Github](https://github.com/mrjones91)
 
-### [Personal Site](https://dij.io)
+### [dijital Technologies](https://dij.io)
 
-### [Current SideQuests Blog](../index.md)
+### [Blog Homepage](../index.md)
+
+## Blog Archive
 
 ### [Early Career (2014-2016) Medium Blog](https://medium.com/dij-please)
 

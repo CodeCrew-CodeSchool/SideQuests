@@ -1,5 +1,7 @@
 # Programmers vs High Level Languages
 
+### aka How New Tech Takes Your Job
+
 This podcast, Advent of Computing, is a pretty amazing deep dive into the history of computing.
 
 On this particular episode is about the advent of "higher level" languages like Fortran and eventually C.
@@ -10,4 +12,4 @@ One Dr. Dr. even mailed in a complaint to the ACM about the pitfalls of Fortran
 
 Funny how the more things change, the more they stay the same
 
-[Podcast](https://youtu.be/17fIvAZWbvo?si=T5t4ZFs-HPFjRSpr)
+[Advent of Computing - Episode 121 - Arguments Against Programming](https://youtu.be/17fIvAZWbvo?si=T5t4ZFs-HPFjRSpr)

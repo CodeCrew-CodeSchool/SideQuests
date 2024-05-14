@@ -1,24 +1,24 @@
 # blog init
 
-## Welcome to the CodeSchool Blog
+## Welcome to my CodeSchool Blog
 
-This is a test post. A proof of concept for the student blogs for the 2024 cohort and beyond.
+Here you can find more about me and my thoughts on tech and things I'm working on outside of, or because of, class.
 
-## Students READTHIS
+<!-- ## Students READTHIS
 
 Add a folder in the 2024 folder with your name on it. 
 It should contain a single file titled index.md or README.md along with a folder titled Portfolio
-
+ -->
 
 ## DJ's Table of Contents
 
-[My Portfolio](/Portfolio/)
+[My Portfolio](./Portfolio/)
 
 <!-- [Module 1](/Module1/) -->
 
-### Blogs
+### Blog Categories
 
-[Tech](/Tech/)
+[Career Advice](./Career)
 
-[History](/History/)
+[Tech Thoughts](./Tech/)
 
