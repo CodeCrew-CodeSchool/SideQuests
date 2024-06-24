@@ -12,7 +12,7 @@ It should contain a single file titled index.md or README.md along with a folder
 
 ## DJ's Table of Contents
 
-[My Portfolio](./Portfolio/)
+[My Portfolio](/Portfolio/)
 
 <!-- [Module 1](/Module1/) -->
 
