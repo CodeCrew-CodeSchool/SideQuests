@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-[How New Tech Takes Your Job](/FORTRAN.md)
+[How New Tech Takes Your Job](./FORTRAN.md)
 
-[Juneteenth and the Liberating Power of Information](/Juneteenth24.md)
+[Juneteenth and the Liberating Power of Information](./Juneteenth24.md)
 <!-- 
 [CSU - Computer Science Universe](./CSU.md)
  Building a Computer Science Universe-ity @ CodeCrew -- Render, BITCON, BTC?
