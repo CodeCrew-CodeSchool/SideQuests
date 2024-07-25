@@ -8,7 +8,7 @@
 
 [Juneteenth and the Liberating Power of Information](./Juneteenth24.md)
 
-[Bitcoin Part 1](./Bitcoin.md)
+[Bitcoin Education - Bitcoin Part 1](./BitcoinEducation.md)
 
 <!-- 
 [CSU - Computer Science Universe](./CSU.md)
