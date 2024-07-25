@@ -8,6 +8,8 @@
 
 [Juneteenth and the Liberating Power of Information](./Juneteenth24.md)
 
+[Bitcoin Part 1](./Bitcoin.md)
+
 <!-- 
 [CSU - Computer Science Universe](./CSU.md)
 How the world can benefit from a more integrated and base understanding of logic/computational thinking
