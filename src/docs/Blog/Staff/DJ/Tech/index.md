@@ -7,8 +7,10 @@
 [How New Tech Takes Your Job](./FORTRAN.md)
 
 [Juneteenth and the Liberating Power of Information](./Juneteenth24.md)
+
 <!-- 
 [CSU - Computer Science Universe](./CSU.md)
+How the world can benefit from a more integrated and base understanding of logic/computational thinking
  Building a Computer Science Universe-ity @ CodeCrew -- Render, BITCON, BTC?
     Teaching CS
         What is CS
@@ -36,7 +38,7 @@
   How to Engage
   Study Bitcoin
 
-[Bitcoin For Memphis]()
+[Bitcoin For Memphis](./BitcoinMemphis.md)
 ![alt text](image.png)
 Bitcoin in the Memphis Treasury
 Public Wallet for Donations

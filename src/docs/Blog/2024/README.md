@@ -22,7 +22,7 @@ Since you'll be writing about a Growth Mindset,
     1-31-24.md
 
 are all reasonable choices based on the content, the fact that this is your 1st blog, and that the class is from Jan 31, 2024.
-Feel free to be creative and remember to avoid using spaces in the file & folder names.
+Feel free to be creative and remember to avoid using spaces in the file & folder nameswsl.
 <!-- folder titled Portfolio with a file that has the same name. -->
 
 ![Example File Structre](/Imgs/Blog_File_Structure.png  "image_tooltip")
