@@ -47,8 +47,8 @@ Full schedule
 
 #### Blogs Coming Soon...
 
-[Unconference](./Unconference.md)
+[Unconference Thoughts](./Bitcoin/Unconference.md)
 
-[Bitcoin Education](./BTC_Edu.md)
+[Bitcoin @ CodeCrew](./Bitcoin/CodeCrew.md)
 
-[Bitcoin for Memphis](./btcmem.md)
+[Bitcoin for Memphis](./Bitcoin/btcmem.md)
