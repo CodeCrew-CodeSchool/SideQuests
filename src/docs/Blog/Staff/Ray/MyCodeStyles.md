@@ -2,7 +2,8 @@
 <br>
 
 
-### I recently noticed that my code files sometimes occupy a lot more horizontal space than normal folks 
+### I recently started experimenting with ways to my code files more readable. Ive found a interesting indent that adds alot more readablily for me. 
+### Heres an example, see if you can spot the difference:  
 
 | Normal People | Me |
 | ----------- | ----------- |
