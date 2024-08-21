@@ -2,7 +2,8 @@
 <br>
 
 
-### I recently started experimenting with ways to my code files more readable. Ive found a interesting indent-scheme that adds alot more readablily for me. 
+### I recently started experimenting with ways to make my code files more readable. Ive found a interesting indenting-scheme that adds alot more readablily for me.
+
 ### Heres an example, see if you can spot the difference:  
 
 | Normal People | Me |
