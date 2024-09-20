@@ -1,6 +1,8 @@
 #draft Ideas from the Unconference
 
-## Bitcoin as a Circular Economy
+## The Global Economy
+
+It can be hard to conceptualize, but the global economy 
 
 ### Bitcoin Economy in Memphis
 

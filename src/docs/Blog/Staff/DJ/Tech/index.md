@@ -4,11 +4,21 @@
 
 ## Table of Contents
 
-[How New Tech Takes Your Job](./FORTRAN.md)
+5/14/24 [How New Tech Takes Your Job](./FORTRAN.md)
 
-[Juneteenth and the Liberating Power of Information](./Juneteenth24.md)
+6/24/24 [Juneteenth and the Liberating Power of Information](./Juneteenth24.md)
 
-[Bitcoin Education - Bitcoin Part 1](./BitcoinEducation.md)
+9/20/24 [Linux Pull Request Finally Closed After 20 Years of Work](./20YearPR.md)
+
+9/20/24 [Brief Quantum Programming Tangent](./QuantumComputing.md)
+
+### Bitcoin
+
+8/13/24 [Bitcoin Education - Bitcoin Part 1](./BitcoinEducation.md)
+
+9/20/24 [How Much Bitcoin You Need & My Only Thoughts on Price Speculation](./Bitcoin/HowMuch.md)
+
+9/20/24 [Mining Companies in Memphis](./Bitcoin/)
 
 <!-- 
 [CSU - Computer Science Universe](./CSU.md)
