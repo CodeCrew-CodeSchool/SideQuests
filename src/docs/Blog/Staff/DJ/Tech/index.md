@@ -18,9 +18,10 @@
 
 9/20/24 [How Much Bitcoin You Need & My Only Thoughts on Price Speculation](./Bitcoin/HowMuch.md)
 
+<!--
 9/20/24 [Mining Companies in Memphis](./Bitcoin/)
 
-<!-- 
+ 
 [CSU - Computer Science Universe](./CSU.md)
 How the world can benefit from a more integrated and base understanding of logic/computational thinking
  Building a Computer Science Universe-ity @ CodeCrew -- Render, BITCON, BTC?
