@@ -18,6 +18,8 @@
 
 9/20/24 [How Much Bitcoin You Need & My Only Thoughts on Price Speculation](./Bitcoin/HowMuch.md)
 
+9/23/24 [Time Value](./Bitcoin/TimeValue.md)
+
 <!--
 9/20/24 [Mining Companies in Memphis](./Bitcoin/)
 
