@@ -1,10 +1,10 @@
-# Time Value
+# Time Value of Bitcoin
 
 You have value.
 
 Your time has value.
 
-Extrapolated across the globe, you can quickly see how our inherent value isn't being respected.
+When you look across the globe with that in mind, you can quickly see how our inherent value isn't being respected.
 
 No matter where you are
 

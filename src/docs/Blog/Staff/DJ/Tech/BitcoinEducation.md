@@ -45,9 +45,11 @@ Full schedule
 [The Rise and Rise of Bitcoin (2014)](https://youtu.be/Ew5XMjaXTF4?si=fh2mT7uCkIpY-3MU)
 
 
-#### Blogs Coming Soon...
+#### Related
 
 [Unconference Thoughts](./Bitcoin/Unconference.md)
+
+#### Blogs Coming Soon...
 
 [Bitcoin @ CodeCrew](./Bitcoin/CodeCrew.md)
 

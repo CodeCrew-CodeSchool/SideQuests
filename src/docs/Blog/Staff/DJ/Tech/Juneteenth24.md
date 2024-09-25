@@ -1,4 +1,4 @@
-![Juneteenth Flyer](juneteenth_digital_equity.png "Event Promo Image")
+![Juneteenth Flyer](/Imgs/DJ/juneteenth_digital_equity.png "Event Promo Image")
 [Juneteenth Digital Equity Bible Study](https://www.digitalequitybiblestudy.com/)
 
 ## Hello World
