@@ -2,7 +2,7 @@
 
 ### [Check out my Github](https://github.com/mrjones91)
 
-### [dijital Technologies](https://dij.io)
+### [My Personal Website](https://www.dij.io)
 
 ### [Blog Homepage](../index.md)
 
