@@ -3,6 +3,10 @@
 
 # DEVOPS - Developer Operations
 
-Render / Netlify
+### Compare and Contrast the following application hosting platforms:
 
-Github Pages and Github Actions
+- Github Pages
+- Netlify
+- Render
+- AWS
+- Azure

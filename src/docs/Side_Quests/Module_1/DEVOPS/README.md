@@ -3,7 +3,8 @@
 
 # DEVOPS - Developer Operations
 
-github pages
-dns
-CLI
-Linux
+- Describe and Define
+  - Github Pages
+  - DNS
+  - CLI
+  - Linux

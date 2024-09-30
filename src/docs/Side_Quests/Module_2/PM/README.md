@@ -3,6 +3,6 @@
 
 # MAIN - Additonal Software Engineering Concepts
 
-tasks
-
-sprints
+- Describe and Define
+  - Tasks
+  - Sprints

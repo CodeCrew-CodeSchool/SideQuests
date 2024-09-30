@@ -3,10 +3,8 @@
 
 # GAMEDEV - Game Developer
 
-Canvas games
-
-JS Libraries
-
-Objects
-
-prototypes
+- Describe and Define
+  - HTML Canvas
+  - JavaScript Objects
+  - JavaScript Prototypes
+  - JavaScript Libraries

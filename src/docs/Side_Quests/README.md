@@ -27,9 +27,20 @@ Build more intricate prototypes via tutorials or your own ideas
 
 Learn more concepts, build practice projects, build final prototype, prepare/take certifications, continuing resources
 
+# Key Resources
 
-# Roadmaps
+## Roadmap.sh
 
-Starting in Module 1, you'll find guides containing organized learning paths for some of the specializations mentioned, provided by [Roadmap.sh](https://roadmap.sh/)
+You'll find guides containing organized learning paths for some of the specializations mentioned. Here's a general [Computer Science Roadmap](https://roadmap.sh/computer-science)
 
-[Computer Science Roadmap](https://roadmap.sh/computer-science)
+## LinkedIn
+
+LinkedIn's become a great resource for tech workers in recent years as you can find jobs postings, celebrate career advancement, get training and share expertise.
+
+## StackOverflow
+
+One of many developer forums you can find. This classic site hosts questions and answers to all sorts of errors you'll run into. Great way to find fixes to obscure problems and to learn how to fix them yourself.
+
+## Meta.Ai
+
+This is a top tier and open source AI tool with mostly up to date information.

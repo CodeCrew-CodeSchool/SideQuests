@@ -3,10 +3,14 @@
 
 # MAIN - Additonal Software Engineering Concepts
 
-git
+- Describe and Define
+  - git
+  - Open Source
 
-projects ()
-
-see DEVOPS, PM, & DBA
-
-https://roadmap.sh/
+- Additional Reading
+  - [DEVOPS](../DEVOPS/)
+  - [PM](../PM/)
+  - [DBA](../DBA/)
+  - https://roadmap.sh/
+  - https://google.com
+  - https://meta.ai

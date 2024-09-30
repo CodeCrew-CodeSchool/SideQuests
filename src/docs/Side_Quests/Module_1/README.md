@@ -2,7 +2,19 @@
 
 # Module 1
 
-# Potential Job Roles
+# Quest + 250 points
+
+Earn the Responsive Web Design Certification from FreeCodeCamp [Link](https://www.freecodecamp.org/learn/2022/responsive-web-design/): https://www.freecodecamp.org/learn/2022/responsive-web-design/
+
+# Additional Quests + 15 points
+
+Complete a Blog Post documenting what you're learning about your chosen specialization. 
+Wikis, local and online communities, interviews, professional events are great sources for information about what work and life might look like for you. 
+
+
+# Scenic Route
+
+## Potential Job Roles
 
 1) [Full Stack Web Dev](https://roadmap.sh/full-stack) - [MAIN Quests](/Side_Quests/Module_1/MAIN/)
 
@@ -136,9 +148,9 @@ Software Architecture
 
 - [Blockchain](https://roadmap.sh/blockchain)
 
-# Job Levels
+## Job Levels
 
-## Common Individual Contributor Levels
+### Common Individual Contributor Levels
 
 Developer
 
@@ -148,13 +160,13 @@ Senior
 
 Lead
 
-## Management 
+### Management 
 
 Team Manager
 
 Group Manager
 
-## Executive / C Suite
+### Executive / C Suite
 
 CIO - Generally more general IT related. Oversees the overall technical implementation of a business. Hardware, software, networking, etc
 

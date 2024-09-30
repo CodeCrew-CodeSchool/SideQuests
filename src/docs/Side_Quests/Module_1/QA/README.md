@@ -3,4 +3,5 @@
 
 # QA - Quality Assurance
 
-software testing
+- Describe and Define
+  - software testing

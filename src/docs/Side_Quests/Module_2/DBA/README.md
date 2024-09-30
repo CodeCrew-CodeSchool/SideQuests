@@ -3,8 +3,9 @@
 
 # DBA - Database Administration
 
-browser
-
-    localstorage 
-
-    cache
+- Describe and Define
+  - Browser Storage Options
+    - localstorage 
+    - cache
+  - JSON
+  - XML
