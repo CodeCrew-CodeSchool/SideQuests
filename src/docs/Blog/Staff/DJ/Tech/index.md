@@ -12,6 +12,8 @@
 
 9/20/24 [Brief Quantum Programming Tangent](./QuantumComputing.md)
 
+10/2/24 [OPSEC 101](./OPSEC101.md)
+
 ### Bitcoin
 
 8/13/24 [Bitcoin Education - Bitcoin Part 1](./BitcoinEducation.md)
