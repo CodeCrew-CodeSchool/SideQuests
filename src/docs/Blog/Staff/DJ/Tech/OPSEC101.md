@@ -2,7 +2,9 @@
 
 Today, a couple of Harvard students released a project they built, called [I-XRAY](https://x.com/AnhPhuNguyen1/status/1840786336992682409).
 
-Pretty cool right!? Yes and no... I'm seriously considering just going back to my backup plan to be a hermit. Luckily, they do include a couple of ways to clean up my digital trail before I head for the hills.
+Pretty cool right!? 
+
+Yes and no... I'm seriously considering just going back to my backup plan to be a hermit. Luckily, they do include a couple of ways to [clean up my digital trail](http://tinyurl.com/meet-ixray) before I head for the hills.
 
 Before I go, here's a quick rundown on what else you can do to imrpove your [OPSEC aka Operations Security](https://en.wikipedia.org/wiki/Operations_security) while you're out in the Matrix.
 
