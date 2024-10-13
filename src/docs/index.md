@@ -15,62 +15,18 @@ Below you'll find our initial setup guide to get started with course work, the c
 
 [DJ](/Blog/Staff/DJ)
 
+[Ray](/Blog/Staff/Ray)
+
 ### Student Blogs
- 
- 
- [Bracho, Isabel](/Blog/2024/)
- 
- [Buckner, Dominique](/Blog/2024/)
- 
- [Cales, Zakkery](/Blog/2024/)
- 
- [Cunningham, Caleb](/Blog/2024/)
- 
- [Davis, Ebony](/Blog/2024/)
- 
- [Freeman, Steven](/Blog/2024/)
- 
- [Frost, Lynsey](/Blog/2024/)
- 
- [Harris, Michael](/Blog/2024/)
- 
- [Hoyle, Cris](/Blog/2024/)
- 
- [Ibezim, Arlinda](/Blog/2024/)
- 
- [Johnson, Lakeesha](/Blog/2024/)
- 
- [Johnson, Maya](/Blog/2024/Mayaangelouj)
- 
- [Jones, Makenzie](/Blog/2024/)
- 
- [Malone, Quincy](/Blog/2024/)
- 
- [McCants, Ryan](/Blog/2024/)
- 
- [Moment, Kavious](/Blog/2024/)
- 
- [Montague, Maya](/Blog/2024/)
- 
- [Moore, Amya](/Blog/2024/)
- 
- [Moore, Brian](/Blog/2024/)
- 
- [Payne, Katerra](/Blog/2024/Katerra_Payne)
- 
- [Purdy, Shakyra](/Blog/2024/)
- 
- [Rucker II, John](/Blog/2024/)
- 
- [Shaffer, Cameron](/Blog/2024/)
- 
- [Shotwell, Jervontae](/Blog/2024/)
- 
- [Simmons, Brien](/Blog/2024/BrienSimmons)
- 
- [Simpson, Matthew](/Blog/2024/PublicKip)
- 
- [Sy, Moussa](/Blog/2024/)
+
+[2023 Cohort](/Blog/2023/)
+[202401 Cohort](/Blog/2024/)
+[202408 Cohort](/Blog/2024/)
+
+# Community Blog Posts
+
+[Index](/Blog/Community/)
+
 
 ## Side Quests
 
