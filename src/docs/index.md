@@ -56,7 +56,7 @@ Below you'll find our initial setup guide to get started with course work, the c
  
  [Moore, Brian](/Blog/2024/)
  
- [Payne, Katerra](/Blog/2024/Katerra_Payne)
+ [Payne, Katerra](/Blog/2024/SierraMistRocks)
  
  [Purdy, Shakyra](/Blog/2024/)
  
