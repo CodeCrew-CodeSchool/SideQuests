@@ -8,3 +8,11 @@
   - JavaScript Objects
   - JavaScript Prototypes
   - JavaScript Libraries
+  - Game Loop
+    - Update
+    - Draw
+  - Input
+  - Animation
+  - Physics
+  - Game Logic
+  - Enemy 

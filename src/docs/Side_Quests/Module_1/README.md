@@ -4,7 +4,16 @@
 
 # Quest + 250 points
 
-Earn the Responsive Web Design Certification from FreeCodeCamp [Link](https://www.freecodecamp.org/learn/2022/responsive-web-design/): https://www.freecodecamp.org/learn/2022/responsive-web-design/
+Earn the Responsive Web Design Certification from FreeCodeCamp 
+
+[Link](https://www.freecodecamp.org/learn/2022/responsive-web-design/): https://www.freecodecamp.org/learn/2022/responsive-web-design/
+
+Choose an additional [Google Certification](https://grow.google/certificates/) to work towards 
+- IT Support
+- Digital Marketing
+- UX Design, Data Analytics
+- Project Managemen
+- Cyber Security
 
 # Additional Quests + 15 points
 
@@ -124,6 +133,10 @@ Software Architecture
 - [UX Design](https://roadmap.sh/ux-design)
 
 - UI Designer
+
+- Business Analyst
+
+- IT Support
 
 - Designer - UI / Story / Gameplay / [Systems](https://roadmap.sh/design-system)
 

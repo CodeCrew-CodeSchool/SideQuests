@@ -4,7 +4,17 @@
 
 # Quest + 300 points
 
-Earn the Javascript Algorithms and Data Structures Certification from FreeCodeCamp [Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/): https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
+Earn the Javascript Algorithms and Data Structures Certification from FreeCodeCamp 
+
+[Link](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/): 
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
+
+Choose an additional [Google Certification](https://grow.google/certificates/) to work towards 
+- IT Support
+- Digital Marketing
+- UX Design, Data Analytics
+- Project Managemen
+- Cyber Security
 
 # Scenic Route
 

@@ -20,7 +20,9 @@ Below you'll find our initial setup guide to get started with course work, the c
 ### Student Blogs
 
 [2023 Cohort](/Blog/2023/)
+
 [202401 Cohort](/Blog/2024/)
+
 [202408 Cohort](/Blog/2024/)
 
 # Community Blog Posts

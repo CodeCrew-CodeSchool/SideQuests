@@ -2,12 +2,12 @@ Along a self guided learning journey, and inter-personal communication in genera
 
 The following resources are to guide you, so 
 
-https://dontasktoask.com/
+[Don't Ask to Ask - https://dontasktoask.com/](https://dontasktoask.com/)
 
-https://xyproblem.info/
+[X Y Problem - https://xyproblem.info/](https://xyproblem.info/)
 
-https://nohello.net/en/
+[No Hello - https://nohello.net/en/](https://nohello.net/en/)
 
-https://stackoverflow.com/help/how-to-ask
+[How to Ask - https://stackoverflow.com/help/how-to-ask](https://stackoverflow.com/help/how-to-ask)
 
-http://catb.org/~esr/faqs/smart-questions.html#not_losing
+[SMART Questions - http://catb.org/~esr/faqs/smart-questions.html#not_losing](http://catb.org/~esr/faqs/smart-questions.html#not_losing)

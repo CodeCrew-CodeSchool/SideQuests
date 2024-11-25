@@ -1,8 +1,8 @@
-#draft Ideas from the Unconference
+# Great Ideas from the Unconference
 
 ## The Global Economy
 
-It can be hard to conceptualize, but the global economy 
+It can be hard to conceptualize, but the global economy is something that should be considered, especially now that
 
 ### Bitcoin Economy in Memphis
 

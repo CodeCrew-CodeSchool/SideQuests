@@ -27,20 +27,91 @@ Build more intricate prototypes via tutorials or your own ideas
 
 Learn more concepts, build practice projects, build final prototype, prepare/take certifications, continuing resources
 
-# Key Resources
+-----------------
 
-## Roadmap.sh
+# FreeCodeCamp Core Certs
 
-You'll find guides containing organized learning paths for some of the specializations mentioned. Here's a general [Computer Science Roadmap](https://roadmap.sh/computer-science)
+[Link](https://www.freecodecamp.org/learn)
 
-## LinkedIn
+Completing the assignments and projects in each of the courses listed below will earn you additional certifications and experience with the tools and concepts covered in class.
+I've listed them by module so you have a guide for where to look for similar work you've already done.
+It would be a good idea to make a Repo for each course that can publicly show your work.
+ 
+## Module 1
 
-LinkedIn's become a great resource for tech workers in recent years as you can find jobs postings, celebrate career advancement, get training and share expertise.
+- Responsive Web Design
 
-## StackOverflow
+## Module 2
 
-One of many developer forums you can find. This classic site hosts questions and answers to all sorts of errors you'll run into. Great way to find fixes to obscure problems and to learn how to fix them yourself.
+- JavaScript Algorithms and Data Structures
 
-## Meta.Ai
+## Module 3
 
-This is a top tier and open source AI tool with mostly up to date information.
+- Front End Development Libraries
+- Data Visualization
+- Back End Development and APIs
+- Quality Assurance
+- Relational Database
+
+## Module 4 - dotnet
+
+- C#
+- Relational Database
+
+## Module 4 - AI/ML in Python
+
+- Python (& Miscellaneous Technical Specializations)
+- Scientific Computing with Python
+- Data Analysis with Python
+- Machine Learning with Python
+- Information Security with Python
+- College Algebra with Python
+
+# Google 
+
+[Start here](https://grow.google/certificates/) especially if you're interested in broader tech work outside of programming. 
+
+* Choose A Path, based on your career aspirations and interests
+* Don't shy away from the "Advance Your Career" Options either. They're great continuing education as bootcamp grads interested in further programming skills
+* The main 6 courses aren't directly programming focused. IT Support, Cyber Security, UX Design, and Data Analytics are great additional info to know as a Developer
+* Digital Marketing will help if you'd like to freelance and build websites and services that are common needs amongst startups, small businesses, and individuals 
+* If you do the Google Cybersecurity, don't forget the Comptia Security+ after that
+
+- Project Management
+- UX Design
+- Digital Marketing
+
+- IT Support
+- Data Analytics
+- Cybersecurity
+
+- IT Automation with Python
+- Advanced Data Analytics
+
+Link - https://www.coursera.org/google-career-certificates?utm_source=bg&utm_medium=sem&utm_campaign=15-GoogleCareerCert-HubPage-US&utm_content=B2C&campaignid=415059036&adgroupid=1220458372956604&device=c&keyword=google%20certificates&matchtype=e&network=o&devicemodel=&adpostion=&creativeid=&hide_mobile_promo&msclkid=d8fb4912307f1d9343c72fe88f8addab&utm_term=google%20certificates
+
+# Azure Fundamentals Course, Practice Exam, and Certification
+Reviewing this course and practice exam will serve you if wanting to be a cloud engineer.
+This cert is also a good credential to have early on as proof of skill on in your career.
+https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification
+
+
+# Comptia 
+
+(listed in order of usefulness)
+
+Security+ - Standard certification in highly secure industries: Military, Banking, Healthcare, Large Corporations
+
+A+ - Standard Tech Support Certification
+
+Network+ - Standard Networking Certification - Large Hardware Focus
+
+Linux+ - Standard Operating System Certification
+
+# Local Groups
+
+- DevMemphis / MemTech Slack - https://memphistechnology.org/blog/2015/05/19/join-memtech-on-slack-chat/
+- Code Connector Slack - https://join.slack.com/t/code-connector/shared_invite/zt-2pk1hjm0h-BRRnFIdrvDURjDkdrca21g
+- Memphis Game Dev Discord - http://www.memphisgamedevelopers.org/
+- BDPA Memphis Discord - https://discord.gg/QYqcppFJA3
+- MidSouth Makers Discord - https://www.midsouthmakers.org/

@@ -5,10 +5,8 @@
 
 automated testing
 
-jest
+jest / bun / deno
 
     assert
 
     mock
-
-bun test suite

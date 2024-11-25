@@ -14,6 +14,8 @@
 
 10/2/24 [OPSEC 101](./OPSEC101.md)
 
+10/21/24 [Techie Media](./TechieMedia.md)
+
 ### Bitcoin
 
 8/13/24 [Bitcoin Education - Bitcoin Part 1](./BitcoinEducation.md)
@@ -21,6 +23,10 @@
 9/20/24 [How Much Bitcoin You Need & My Only Thoughts on Price Speculation](./Bitcoin/HowMuch.md)
 
 9/23/24 [Time Value](./Bitcoin/TimeValue.md)
+
+10/03/24 [Additional Resources to Understand Bitcoin](./Bitcoin/Resources.md)
+
+10/14/24 [Unconference](./Bitcoin/Unconference.md)
 
 <!--
 9/20/24 [Mining Companies in Memphis](./Bitcoin/)

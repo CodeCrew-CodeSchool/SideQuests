@@ -7,18 +7,22 @@
 
 Javascript apps
 
-bun
-
 node ecosystem
+
+one
+
+bun
+deno
 
 meteorjs
 
-Python Apps
 
+
+
+Python Apps
 python > django
 
 Ruby Apps
-
 ruby on rails
 
 PM - project documentation

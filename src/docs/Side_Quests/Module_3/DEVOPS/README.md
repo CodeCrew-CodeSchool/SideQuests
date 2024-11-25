@@ -3,10 +3,10 @@
 
 # DEVOPS - Developer Operations
 
-digitalocean
-
-docker
-
-environment variables
-
-deploying a frontend app vs backend
+- Describe and Define
+  - DigitalOcean
+  - Docker
+  - Environment Variables
+  - Deploying a Frontend App vs Backend
+  - Build Commands
+  - Installation
