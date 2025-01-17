@@ -4,10 +4,15 @@
 
 Below you'll find our initial setup guide to get started with course work, the curriculum table of contents and links to additional materials to aid you in any specializations (Side Quests) you may want to pursue as you progress through the course.
 
-## [2024 Student Handbook](https://codeschoolcourses.slack.com/files/U03TR9E8144/F06FLD3TMLL/code_school_handbook_january2024.docx.pdf)
+## [Student Handbook](https://drive.google.com/file/d/1CnT0t1RcZPSuZAGeUpqCUNUz6HI1OI8e/view?usp=sharing)
 
 ## Setup Guides
-[Get Started](https://app.schoology.com/course/7112730999/materials?f=787763846)
+[Windows](https://drive.google.com/file/d/1k4I6NcpsFfZTg9SQUpdzV6gbW6aLs7po/view?usp=drive_link)
+[Mac](https://drive.google.com/file/d/1jpKwWfTyS_Fg4Ma5qGwtucCinDvioX4-/view)
+
+<br/>
+
+[Linux - jk, you're good]()
 
 ## Blogs
 
@@ -15,7 +20,7 @@ Below you'll find our initial setup guide to get started with course work, the c
 
 [DJ](/Blog/Staff/DJ)
 
-[Ray](/Blog/Staff/Ray)
+<!-- [Ray](/Blog/Staff/Ray) -->
 
 ### Student Blogs
 
