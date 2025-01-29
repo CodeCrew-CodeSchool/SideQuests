@@ -1,0 +1,1 @@
+I believe having a growth mindset is to seek a "way in" or "way out". There is always an opportunity to improve your current situation.
