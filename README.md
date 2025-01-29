@@ -2,8 +2,9 @@
 
 ## Student Blogs
 
-Add a folder in the 2024 folder with your name on it. 
-It should contain a single file titled index.md or README.md along with a folder titled Portfolio
+In the /Blog/20XX/ folder, 20XX should match the year you joined CodeSchool, add a folder with your name on it. 
+It should contain a single file titled index.md or README.md along with a folder titled Portfolio.
+Continue adding files that have their own custom name and use either HTML or Markdown to link between your blog posts. C
 
 ## Code School Projects
 
