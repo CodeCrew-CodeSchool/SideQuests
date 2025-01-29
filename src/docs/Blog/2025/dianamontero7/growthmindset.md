@@ -7,7 +7,7 @@
 ## A growth mindset is all about believing you can improve with effort and persistence. Talent and smarts are just the starting line—it’s your drive to learn and grow that really makes the difference.
 
 
-### 3 Self Reminders to Stay in a Growth Mindset
+# 3 Self Reminders to Stay in a Growth Mindset
 
 ## 1. Progress Over Perfection
 It’s easy to get caught up in wanting to do everything just right, but I remind myself that growth isn’t about being perfect—it’s about improving. Every mistake is just another step forward.
