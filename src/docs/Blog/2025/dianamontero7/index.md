@@ -1,3 +1,4 @@
+# Index
 # Hey Guys! Welcome to my blog! <3
 
 ### My name is Diana Montero and I am currently a student at CodeCrew.
