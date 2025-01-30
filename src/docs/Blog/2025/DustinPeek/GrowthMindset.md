@@ -6,4 +6,4 @@ To me, a growth mindset is one that comes in ready to not only learn, but also t
 * Be open to new ideas
 * Keep yourself motivated and never give up
 
-<a href="ReadMe.md">Return to Blog Homepage</a>
+[Home](ReadMe.md)
