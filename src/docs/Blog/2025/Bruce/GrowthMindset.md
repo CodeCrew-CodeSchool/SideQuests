@@ -1,4 +1,4 @@
-# Growth Mindset
+# Growth Mindset To Me
 
 A growth mindset is the belief that abilities and intelligence can be developed through dedication and hard work. This view creates a love for learning and resilience essential for great accomplishments. People with a growth mindset embrace challenges, persist through obstacles, learn from criticism, and find inspiration in others' success. They understand that effort is a path to mastery and that failure is an opportunity to grow. Cultivating a growth mindset involves setting learning goals, seeking feedback, and viewing setbacks as a natural part of the learning process. 
 
