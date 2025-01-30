@@ -1,12 +1,12 @@
 # 2025 Cohorts
 
-Use the sidebar or start with these entries to navigate:
+Use the sidebar or start with these entries to navigate.:
  
 ### 202501
 
  [Josh](/Blog/2025/Computergalli/)
  
- [Ryan](/Blog/2025/Ryan%20Edwards/)
+ [Ryan](/Blog/2025/Rekoyah/)
  
  [Ayana](/Blog/2025/asmithxu)
  
@@ -14,5 +14,5 @@ Use the sidebar or start with these entries to navigate:
 
  [Kadarius](/Blog/2025/KadariusClemons)
   
-
+ [Bruce](/Blog/2025/Bruce)
  
