@@ -1,7 +1,7 @@
-# Isaiah's Growth Mindset {#title-id}
-#### The subject for the first blog is going to be the growth mindset. {#subtitle-id}
+# Isaiah's Growth Mindset
+#### The subject for the first blog is going to be the growth mindset. 
 
-###### Let's start this off with my initial thoughts, opinions, and definition before reading the article and we'll finish with how things have changed for me afterwards. {#rough-intro-id}
+###### Let's start this off with my initial thoughts, opinions, and definition before reading the article and we'll finish with how things have changed for me afterwards. 
 
 ![Sheen, with an oversized head, from Jimmy Neutron raising his hands menacingly.](https://static.wikia.nocookie.net/jimmyneutron/images/0/05/Sheen_The_God.jpg/revision/latest?cb=20210704010416)
 
