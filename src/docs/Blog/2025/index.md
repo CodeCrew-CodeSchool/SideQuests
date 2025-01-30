@@ -1,6 +1,6 @@
 # 2025 Cohorts
 
-Use the sidebar or start with these entries to navigate:
+Use the sidebar or start with these entries to navigate.:
  
 ### 202501
 
@@ -15,5 +15,5 @@ Use the sidebar or start with these entries to navigate:
  [Isaiah](/Blog/2025/IsaiahOden)
 
  [Jiyah](/Blog/2025/JiyahLaviaBLG)
-  
+    
  
