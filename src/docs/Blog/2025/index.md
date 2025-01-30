@@ -23,3 +23,5 @@ Use the sidebar or start with these entries to navigate.:
  [Carlos](/Blog/2025/CJmegamax123/)
  
  [Jiyah](/Blog/2025/JiyahLaviaBLG/)
+
+ [Joshua](/Blog/2025/JoshuaM)
