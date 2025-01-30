@@ -1,6 +1,6 @@
 # 2025 Cohorts
 
-Use the sidebar or start with these entries to navigate:
+Use the sidebar or start with these entries to navigate.:
  
 ### 202501
 
