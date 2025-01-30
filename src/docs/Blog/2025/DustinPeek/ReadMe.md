@@ -9,3 +9,5 @@ Welcome! I'll be adding a series of posts here that relate to whatever I'm doing
 * <a href="Growth Mindset.md">Growth Mindset</a>
 
 <a href="https://github.com/DMPeek">DMPeek</a>
+
+[Growth Mindset](GrowthMindset.md)
