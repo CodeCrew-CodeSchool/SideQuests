@@ -6,7 +6,7 @@ Use the sidebar or start with these entries to navigate:
 
  [Josh](/Blog/2025/Computergalli/)
  
- [Ryan](/Blog/2025/Ryan%20Edwards/)
+ [Ryan](/Blog/2025/Rekoyah/)
  
  [Ayana](/Blog/2025/asmithxu)
  
