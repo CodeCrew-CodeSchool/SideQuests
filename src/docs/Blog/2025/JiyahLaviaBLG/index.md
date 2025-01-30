@@ -5,4 +5,4 @@
 + I want to be able get my certification and work my way of a Game Devoloper.
 
 
-![alt text](3cdd93f4d1dfba249145ed52c2d20258-1.jpg)S
+![alt text](3cdd93f4d1dfba249145ed52c2d20258-1.jpg)
