@@ -8,6 +8,6 @@
 > *In God's Hands*
 
 ## Table of Contents
-1. **Growth Mindset**
+1. [**Growth Mindset**](https://sidequests.onrender.com/Blog/2025/dianamontero7/growthmindset/)
 
 [<ins>My Github</ins>](https://github.com/dianamontero7)
