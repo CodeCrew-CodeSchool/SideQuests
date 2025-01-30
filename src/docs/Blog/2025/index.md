@@ -28,3 +28,5 @@ Use the sidebar or start with these entries to navigate.:
  [Jiyah](/Blog/2025/JiyahLaviaBLG/)
 
  [Joshua](/Blog/2025/JoshuaM)
+
+ [John](/Blog/2025/JohnW03)
