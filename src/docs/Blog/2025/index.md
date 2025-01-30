@@ -12,9 +12,16 @@ Use the sidebar or start with these entries to navigate.:
  
  [India](/Blog/2025/Computergalli)
 
+ [Diana](/Blog/2025/dianamontero7/)
+  
  [Kadarius](/Blog/2025/KadariusClemons)
   
  [Bruce](/Blog/2025/Bruce)
 
  [Dustin](/Blog/2025/DustinPeek)
+
+ [Carlos](/Blog/2025/CJmegamax123/)
  
+ [Jiyah](/Blog/2025/JiyahLaviaBLG/)
+
+ [Joshua](/Blog/2025/JoshuaM)
