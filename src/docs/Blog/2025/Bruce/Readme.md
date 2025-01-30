@@ -1,4 +1,4 @@
-# Growth Mindset 
+# Growth Mindset Blog
 
 ### By Bruce Brown
 
