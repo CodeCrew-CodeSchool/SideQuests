@@ -10,7 +10,5 @@
 
 ### Celebrate your small wins! 
 
-git add -A
-git commit -m "Growth129.md"
-git push
+[Back to Home](index.md)
 
