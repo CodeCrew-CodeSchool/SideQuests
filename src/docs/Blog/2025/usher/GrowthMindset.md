@@ -1,7 +1,7 @@
-# Growth Mindset
+## Growth Mindset Means to me:
 
 
-* Growth mindset means to me is understanding things more
+* believe in yourself when nobody does
 
 * you can problem solve
 
