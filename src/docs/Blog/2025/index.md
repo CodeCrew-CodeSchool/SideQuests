@@ -16,5 +16,5 @@ Use the sidebar or start with these entries to navigate.:
   
  [Bruce](/Blog/2025/Bruce)
 
- [Dustin](/Blog/2025/DustinPeek)
+ [Dustin](/Blog/2025/DustinPeek/)
  
