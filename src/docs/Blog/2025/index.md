@@ -23,3 +23,6 @@ Use the sidebar or start with these entries to navigate.:
  [Carlos](/Blog/2025/CJmegamax123/)
  
  [Austin](/Blog/2025/Solodadon) 
+ [Jiyah](/Blog/2025/JiyahLaviaBLG/)
+
+ [Joshua](/Blog/2025/JoshuaM)
