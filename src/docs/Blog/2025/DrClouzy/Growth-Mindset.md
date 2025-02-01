@@ -10,6 +10,7 @@ A growth mindset is having the ability and openess to imporve yourself and creat
 
 + Conviction
 
+![alt text](https://sidequests.onrender.com/Blog/2025/DrClouzy/image.png)
 
 <h1> Reminder To Self</h1>
 
