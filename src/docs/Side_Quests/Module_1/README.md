@@ -9,6 +9,7 @@ Earn the Responsive Web Design Certification from FreeCodeCamp
 [Link](https://www.freecodecamp.org/learn/2022/responsive-web-design/): https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 Choose an additional [Google Certification](https://grow.google/certificates/) to work towards 
+
 - IT Support
 - Digital Marketing
 - UX Design, Data Analytics
