@@ -11,7 +11,7 @@
     <!-- This is Where the Subheading Goes-->
      <h3>Today's Lesson was about Media Elements and Links in HTML</h3>
     <!-- This is Where the Exit Ticket Question Goes-->
-        <img src="Feb5Exit.png" alt="Code School Exit Ticket Slide, if you're blind then that's a skill issue">
+        <img src="src/docs/Blog/2025/IsaiahOden/Feb5Exit.png" alt="Code School Exit Ticket Slide">
     <!-- This is Where the Exit Ticket Answers Goes-->
      <article id="answers">
         <div>
@@ -25,7 +25,7 @@
         <div>
             <h4>Describing any processes or instructions I've received today: </h4>
                 <p>
-                   <b><i>Honestly, today was more about practice and additional instructional knowledge for things I had already figured out.</i></b> <br>
+                   <b><i>Honestly, today was more about practice and additional instructional knowledge for things that pretty much made sense already.</i></b> <br>
                     <br>
                     It was interesting reading about the intricacies of metadata and finding out that each and every video player can be customized with javascript. <br>
                     Also, I learned more about the process of embedding not just videos but all the interactive content on the internet. <br>

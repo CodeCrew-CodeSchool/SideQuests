@@ -8,5 +8,5 @@ Here's my [github](https://github.com/IsaiahOden)
 <h2>Most Recent Posts</h2>
 <ul>
    <li><a href="GrowthMindset-1-29-25.md"> Growth Mindset</a> </li>
-   <li><a href="Feb2lesson.md">02-05-25 Lesson</a> </li>
+   <li><a href="src/docs/Blog/2025/IsaiahOden/Feb2lesson.md">02-05-25 Lesson</a> </li>
 </ul>
