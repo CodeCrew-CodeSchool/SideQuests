@@ -5,3 +5,5 @@
 
 ## Austin Table of content
 *1 growth mindset*
+
+day 7 exit tick
