@@ -7,5 +7,5 @@ Here's my [github](https://github.com/IsaiahOden)
 
 <h2>Most Recent Posts</h2>
 <ul>
-   <li><a href="https://pbs.twimg.com/media/DMItWG-UIAA_vAu.jpg"> Growth Mindset</a> </li>
+   <li><a href="GrowthMindset-1-29-25.md"> Growth Mindset</a> </li>
 </ul>
