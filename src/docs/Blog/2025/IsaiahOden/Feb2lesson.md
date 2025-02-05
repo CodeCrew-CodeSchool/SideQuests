@@ -31,12 +31,5 @@
                     Also, I learned more about the process of embedding not just videos but all the interactive content on the internet. <br>
                     Finally, I learned about the importance of all the attributes that can be added to media elements to customize the user experience and make the content more accessible.
 
-                </p>
-
-            </span>
-        </div>
-     </article>
-    <!-- This is Where the an example of an embedded video with a link is gonna be-->
-
 </body>
 </html>
