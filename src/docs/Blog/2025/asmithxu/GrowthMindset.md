@@ -1,2 +1,0 @@
-# Growth Mindset
-For me, the growth mindset means continuing to be curious during the learning process even when you face challenges. Rather than being discouraged by mistakes you see it as an opportunity to learn.
