@@ -3,8 +3,8 @@
 #### Welcome to Code & Curiosities. This blog is dedicated to sharing a mix of fun, random projects, and exciting explorations in the world of programming. No matter your background or curiosity, this space is for you. <br> Join me on a journey through a collection of coding callenges, whimsical projects, and various programming assignments from my coding class. Expect plenty of surprises along the way. <br> Let's embark together on this coding adventure and celebrate the joy of learning and innovation! <br> [Visit my GitHub Page](https://github.com/kadariusclemons)
 
 ## Table of Contents
-[What Growth Mindset Is To Me](Portfolio/growthmindset.md)
-
 [Exit Ticket 2/5/2025](Portfolio/feb5th2025.md)
+
+[What Growth Mindset Is To Me](Portfolio/growthmindset.md)
 
 [GitHub Profile](https://github.com/kadariusclemons)
