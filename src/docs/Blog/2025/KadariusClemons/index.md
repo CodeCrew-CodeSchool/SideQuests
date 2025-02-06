@@ -4,5 +4,7 @@
 
 ## Table of Contents
 [What Growth Mindset Is To Me](Portfolio/growthmindset.md)
+
 [2/5/2025](Portfolio/feb5th2025.md)
+
 [GitHub Profile](https://github.com/kadariusclemons)
