@@ -7,7 +7,9 @@ Below you'll find our initial setup guide to get started with course work, the c
 ## [Student Handbook](https://drive.google.com/file/d/1CnT0t1RcZPSuZAGeUpqCUNUz6HI1OI8e/view?usp=sharing)
 
 ## Setup Guides
+
 [Windows](https://drive.google.com/file/d/1k4I6NcpsFfZTg9SQUpdzV6gbW6aLs7po/view?usp=drive_link)
+
 [Mac](https://drive.google.com/file/d/1jpKwWfTyS_Fg4Ma5qGwtucCinDvioX4-/view)
 
 <br/>
@@ -20,15 +22,17 @@ Below you'll find our initial setup guide to get started with course work, the c
 
 [DJ](/Blog/Staff/DJ)
 
-<!-- [Ray](/Blog/Staff/Ray) -->
+[Dili](/Blog/Staff/Dili/1-GrowthMindset)
 
 ### Student Blogs
 
-[2023 Cohort](/Blog/2023/)
+[202501 Cohort](/Blog/2025/)
+
+[202408 Cohort](/Blog/2024/)
 
 [202401 Cohort](/Blog/2024/)
 
-[202408 Cohort](/Blog/2024/)
+[2023 Cohort](/Blog/2023/)
 
 # Community Blog Posts
 
