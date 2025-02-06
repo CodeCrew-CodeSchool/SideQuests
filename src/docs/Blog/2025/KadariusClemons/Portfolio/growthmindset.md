@@ -8,4 +8,4 @@ A growth mindset is the belief that abilities and intelligence can be developed 
 2. Celebrate Effort Over Results
 3. Learn from Feedback
 
-[Code & Curiosities](/index.md)
+[Code & Curiosities](Blog\2025\KadariusClemons\index.md)
