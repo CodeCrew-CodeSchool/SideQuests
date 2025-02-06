@@ -1,8 +1,8 @@
 # **Code & Curiosities**
 
 ## Table of Contents
-1. [What Growth Mindset Is To Me](growthmindset.md)
-2. [2/5/2025](/Portfolio/feb5th2025.md)
+1. [What Growth Mindset Is To Me](Portfolio/growthmindset.md)
+2. [2/5/2025](Portfolio/feb5th2025.md)
 3. [GitHub Profile](https://github.com/kadariusclemons)
 
 
