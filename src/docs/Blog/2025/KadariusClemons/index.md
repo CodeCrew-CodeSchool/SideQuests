@@ -4,9 +4,17 @@
 
 ## Table of Contents
 
-[2/6/2025]
+[1/29/2025](Portfolio/29jan2025.md)
 
-[2/5/2025]
+[1/30/2025](Portfolio/30jan2025.md)
+
+[2/3/2025](Portfolio/3feb2025.md)
+
+[2/4/2025](Portfolio/4feb2025.md)
+
+[2/5/2025](Portfolio/5feb2025.md)
+
+[2/6/2025](Portfolio/6feb2025.md)
 
 [What Growth Mindset Is To Me](Portfolio/growthmindset.md)
 
