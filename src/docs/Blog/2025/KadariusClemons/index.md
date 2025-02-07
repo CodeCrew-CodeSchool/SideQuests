@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-[Exit Ticket 2/6/2025](Portfolio/feb6th2025.md)
+[2/6/2025]
 
-[Exit Ticket 2/5/2025](Portfolio/feb5th2025.md)
+[2/5/2025]
 
 [What Growth Mindset Is To Me](Portfolio/growthmindset.md)
 
