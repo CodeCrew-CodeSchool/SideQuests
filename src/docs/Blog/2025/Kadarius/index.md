@@ -16,6 +16,6 @@
 
 [2/6/2025](Development-Diary/6feb2025.md)
 
-[What Growth Mindset Is To Me](/Development-Diary/growthmindset.md)
+[What Growth Mindset Is To Me](Development-Diary/growthmindset.md)
 
 [GitHub Profile](https://github.com/kadariusclemons)
