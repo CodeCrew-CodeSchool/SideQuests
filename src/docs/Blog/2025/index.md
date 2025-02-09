@@ -15,7 +15,7 @@ Use the sidebar or start with these entries to navigate.:
  
  [India](/Blog/2025/Computergalli)
   
- [Kadarius](/Blog/2025/KadariusClemons)
+ [Kadarius](/Blog/2025/Kadarius)
  
  [Dustin](/Blog/2025/DustinPeek)
  
