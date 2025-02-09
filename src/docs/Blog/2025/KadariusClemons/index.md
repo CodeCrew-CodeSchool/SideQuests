@@ -4,18 +4,18 @@
 
 ### Explore Our Topics
 
-[1/29/2025](Portfolio/29jan2025.md)
+[1/29/2025](Development-Diary/29jan2025.md)
 
-[1/30/2025](Portfolio/30jan2025.md)
+[1/30/2025](Development-Diary/30jan2025.md)
 
-[2/3/2025](Portfolio/3feb2025.md)
+[2/3/2025](Development-Diary/3feb2025.md)
 
-[2/4/2025](Portfolio/4feb2025.md)
+[2/4/2025](Development-Diary/4feb2025.md)
 
-[2/5/2025](Portfolio/5feb2025.md)
+[2/5/2025](Development-Diary/5feb2025.md)
 
-[2/6/2025](Portfolio/6feb2025.md)
+[2/6/2025](Development-Diary/6feb2025.md)
 
-[What Growth Mindset Is To Me](Portfolio/growthmindset.md)
+[What Growth Mindset Is To Me](Development-Diary/growthmindset.md)
 
 [GitHub Profile](https://github.com/kadariusclemons)
