@@ -1,0 +1,4 @@
+
+Today I learned about the '<form>' and its different uses in html
+
+The `<form>` element in HTML is used to create interactive controls for web-based forms to collect user inputs. It can contain various input elements like text fields, checkboxes, radio buttons, submit buttons, and more. Forms are essential for user authentication, search functionality, and data submission to a server.
