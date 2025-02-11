@@ -4,7 +4,7 @@ Hello coders, My name is Markell Spann and this blog is dedicated to fun facts, 
 
 <h1> Table Of Contents</h1>
  
-My Github Profile: [My Github Profile]([DrCloudzy Github Link
-](https://github.com/DrCloudz/DrCloudz))
+[<ins>My Github</ins>](https://github.com/DrCloudz/DrCloudz)
 
 What Is Growth Mindset: [Growth Mindset](https://vscode.dev/github/CodeCrew-CodeSchool/SideQuests/blob/main/src/docs/Blog/2025/DrClouzy/growthmindset.md)
+
