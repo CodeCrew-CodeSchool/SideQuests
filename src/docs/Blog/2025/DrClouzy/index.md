@@ -4,7 +4,8 @@ Hello coders, My name is Markell Spann and this blog is dedicated to fun facts, 
 
 <h1> Table Of Contents</h1>
  
-[<ins>My Github</ins>](https://github.com/DrCloudz/DrCloudz)
+<a href="https://github.com/DrCloudz">
 
-What Is Growth Mindset: [Growth Mindset](https://vscode.dev/github/CodeCrew-CodeSchool/SideQuests/blob/main/src/docs/Blog/2025/DrClouzy/growthmindset.md)
+What Is Growth Mindset: <a href="Growth-Mindset.md">
 
+<a href="Genral-Notes.html">
