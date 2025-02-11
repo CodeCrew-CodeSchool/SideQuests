@@ -6,6 +6,7 @@ Hello coders, My name is Markell Spann and this blog is dedicated to fun facts, 
  
 <a href="https://github.com/DrCloudz">
 
-What Is Growth Mindset: <a href="Growth-Mindset.md">
+My GitHub Page!: <a href="Growth-Mindset.md">
 
-<a href="Genral-Notes.html">
+General Notes!:<a href="Genral-Notes.html">
+ 
