@@ -18,7 +18,7 @@
 
 [2/10/2025](Development-Diary/10feb2025.md)
 
-[2/11/2025]
+[2/11/2025](Development-Diary/11feb2025.md)
 
 [What Growth Mindset Is To Me](Development-Diary/growthmindset.md)
 
