@@ -5,6 +5,8 @@ Welcome! I'll be adding a series of posts here that relate to whatever I'm doing
 <!-- /blog/ -->
 * [Growth Mindset](https://sidequests.onrender.com/Blog/2025/DustinPeek/GrowthMindset/)
 * [2-5-25 Takeaways](https://sidequests.onrender.com/Blog/2025/DustinPeek/Learned2-5-25/)
+* [2-6-25 Takeaways](https://sidequests.onrender.com/Blog/2025/DustinPeek/Learned2-6-25/)
+* [2-11-25 Takeaways](https://sidequests.onrender.com/Blog/2025/DustinPeek/Learned2-11-25/)
                     
 [DMPeek](https://github.com/DMPeek)
 
