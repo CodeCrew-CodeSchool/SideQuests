@@ -1,0 +1,14 @@
+# **2/18/2025**
+
+DOM: A platform and language-neutral interface that allows programs and scripts to dynamically access and update the content.
+
+API: A set of rules that allows software applications to communicate with each other.
+
+Query Selectors: Allows to select the first element within a document that matches a specified CSS selector.
+
+Element Properties: An attribute of elements that can be used to control certain aspects of that element.
+
+We will recognize and understand DOM JavaScript / DOM manipulation.
+We will read attributes from DOM elements, create new elements, and update attributes.
+
+[Code & Curiosities](https://sidequests.onrender.com/Blog/2025/Kadarius/)
