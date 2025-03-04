@@ -10,6 +10,10 @@ Welcome! I'll be adding a series of posts here that relate to whatever I'm doing
 * [2-11-25 Takeaways](https://sidequests.onrender.com/Blog/2025/DustinPeek/Learned2-11-25/)
 * [2-12-25 Takeaways](https://sidequests.onrender.com/Blog/2025/DustinPeek/Learned2-12-25/)
 * [2-13-25 Takeaways](https://sidequests.onrender.com/Blog/2025/DustinPeek/Learned2-13-25/)
+* [2-17-25 Takeaways](https://sidequests.onrender.com/Blog/2025/DustinPeek/Learned2-17-25/)
+* [2-18-25 Takeaways](https://sidequests.onrender.com/Blog/2025/DustinPeek/Learned2-18-25/)
+* [2-19-25 Takeaways](https://sidequests.onrender.com/Blog/2025/DustinPeek/Learned2-19-25/)
+* [2-20-25 Takeaways](https://sidequests.onrender.com/Blog/2025/DustinPeek/Learned2-20-25/)
                     
 [DMPeek](https://github.com/DMPeek)
 
