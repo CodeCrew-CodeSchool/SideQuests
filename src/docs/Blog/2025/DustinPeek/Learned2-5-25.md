@@ -1,4 +1,4 @@
-# Key takeaways from class on 2-5
+# Key Takeaways from class on 2-5
 
 These are by far the best takeaways I've had from my class today:
 
