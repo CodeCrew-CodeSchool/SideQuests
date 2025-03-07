@@ -1,0 +1,4 @@
+# Week 4 Day 2 - February 25, 2025
+## Control Flow: If and Switch Statements
+
+Today we learned about if and switch statements. These statements help with control flow because they help determine different conditions that we can use to execute in our code. If statements determine the block of code to be executed. An else statement specifies a block of code to be executed if the other condition is false. An else if statement specifies a block of code to be executed if the other statement is false. A switch statement can evaluate multiple blocks of code and if ideal if there are a lot of conditions to evaluate since the code is shorter. 
