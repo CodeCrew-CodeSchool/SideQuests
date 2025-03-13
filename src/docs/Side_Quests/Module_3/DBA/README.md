@@ -5,17 +5,21 @@
 
 
 - Describe and Define
+
   ### Database Types
+
   - nosql
   - Relational Database
   
   ### Information Structure
+
   - table
   - collection
   - schema
   - queries
   
   ### Database Engines
+
   - mongodb
   - sqlite
   - mysql
@@ -23,6 +27,7 @@
   - ssms
 
   ### Database Command Types
+
   - DDL
   - DQL
   - DML
