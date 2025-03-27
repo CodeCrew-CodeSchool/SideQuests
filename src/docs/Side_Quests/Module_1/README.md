@@ -154,13 +154,18 @@ Software Architecture
 
 10) Decentralized Web
 
-- [Bitcoin]()
+- [Bitcoin](http://bitcoin.org)
+- [Bitcoin Devs](http://bitcoindevs.xyz/)
 
 - [NOSTR]()
 
 - [Web5]()
 
 - [Blockchain](https://roadmap.sh/blockchain)
+
+11) CyberSecurity
+
+- [Roadmap](https://roadmap.sh/cyber-security)
 
 ## Job Levels
 
