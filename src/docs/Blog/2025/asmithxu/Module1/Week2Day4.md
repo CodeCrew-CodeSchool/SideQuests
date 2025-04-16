@@ -1,0 +1,4 @@
+# Week 2 Day 4 - February 13, 2025
+## Module 1 Final Exam
+
+Today we had our final exam for module 1. I cannot believe that module 1 is mostly completed. After the exam I went and submitted the Clothing Catalog exercise and later on worked on the exercise about the animations. For the exercise with the animation, we used keyframes in order to define the animation. At first, I didn't really understand the concept and found the documentation from Mozilla and W3 schools to be a little difficult to understand. Remebering the demonstration that DJ did in class was helpful because it helped me to understand that it didn't really need to be that complicated in order to work. 

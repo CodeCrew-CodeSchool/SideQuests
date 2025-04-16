@@ -6,7 +6,7 @@
 
 ## A growth mindset is all about believing you can improve with effort and persistence. Talent and smarts are just the starting line—it’s your drive to learn and grow that really makes the difference.
 
-
+<br>
 # 3 Self Reminders to Stay in a Growth Mindset
 
 ## 1. Progress Over Perfection

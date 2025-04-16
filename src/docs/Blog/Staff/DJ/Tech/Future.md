@@ -20,11 +20,11 @@
 
       Or does it explode?
 
-The future we were sold on hasn't come.
+The future we were sold on hasn't come...
 
-The choices we thought we'd be able to make have been pushed aside for more immediate needs and endless distractions
-
-To not be doom and gloom, we have endless potential for our Next Big Thing
+These days, having hope, feeling hopeful, not being bogged down by despair is not the mainstream view. There's a joy in life that I felt in my youth, raised in smalltown rural TN, in a black family deeply embedded in our black church and in a black ecosystem, I never felt for lack. Growing up, I've come to see the troubles of this world. I've become distant from the nest that made my wonder possible.
+I've learned many things about the plagues of this world and endeavor to live outside of that.
+My optimism
 
 It's Humanity. 
 

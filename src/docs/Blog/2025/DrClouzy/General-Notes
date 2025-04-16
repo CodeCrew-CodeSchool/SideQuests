@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>General Notes</title>
+</head>
+<body>
+    <p>
+        <ul>
+    
+     <li>ID = This is a specific and unique identity for each element on your html page.</li>
+
+     <li>Class = This is a group identifier. If a group of elements need to be styled or referenced a certain way, we normally give the same class name to each element to aid in their uniformity.</li>
+
+     <li>Head- Element container for metadata and is placed between the html tag and the body tag.</li>
+
+     <li>Meta- Data about the html document. data about data.</li>
+
+     <li>Title- defines the title of a document.</li>
+
+     <li>Body- Where most of the code will be and contains all the content of the document.</li>
+
+     <li>p- Used for paragraph content.</li>
+
+     <li>Buttons- Defines a clickable content</li>
+
+     <li>Ol- Tag for an ordered or numbered list.</li>
+     <li>Ul- Tag for an unordered list.</li>
+     <li>Li- tag to represent an item on a list.</li>
+     <li>Table- tag for table that represents tabular data.</li>
+     <li>t-head- Element encapsulates a set of table rows, indicating that they make up the head of the table.</li>
+     <li>i-frame- Used to embed other wesites into an existing website similar to img and videos tag.</li>
+     <li>Figure- A tag thats used to describe its appointed content such as an image or video.</li>
+     <li>Audio- used similarly as img and video tag to embed audio into the webiste.</li>
+     <li>Forms- Allows you to make interactive sections on you webpage</li>
+     <li>Mailto- Allows yout to make email links that connect and open a window to the responding email.</li>
+
+     CSS Notes- 02/10/2025
+
+     <li>
+        CSS- Cascade Style Sheet
+      Selectors- Usd tp find the html element 
+      Styles- Define how your html is formatted n looks.
+
+     </li>
+        </ul>
+
+    </p>
+    
+</body>
+</html>

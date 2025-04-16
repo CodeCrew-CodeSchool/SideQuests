@@ -129,4 +129,15 @@ Lending Library - dotnet tdd - Dictionary & LinkedList
 LINQ in Manhattan
 Async Inn
 ecommerce
-cookie stand -->
+cookie stand 
+-->
+
+<!-- 
+Student Projects
+Notes App
+Oneiros - Learning Resources Wiki
+Teammate Finder - Find a Teammate for Online Games
+Petal and Wick - StoreFront Template
+Virtual Museum - Seasonal Platform to Showcase Local Artists
+Code Crew Clue Game
+ -->

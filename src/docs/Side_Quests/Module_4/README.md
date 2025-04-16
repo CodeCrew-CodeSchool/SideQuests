@@ -21,6 +21,12 @@ Choose an additional [Google Certification](https://grow.google/certificates/) t
 - Project Managemen
 - Cyber Security
 
+# Additional Quests + 15 points
+
+Complete a Blog Post documenting what you're learning about your chosen specialization. 
+
+Wikis, local and online communities, interviews, professional events are great sources for information about what work and life might look like for you. 
+
 # Scenic Route
 
 [MAIN Quests](/Side_Quests/Module_4/MAIN/)
