@@ -23,7 +23,8 @@ It is week 2 day 2 of Module 3 and we are currently learning about API's and Req
 - The < kbd > HTML element is used to show text that a user is supposed to type in (like commands or instructions) or that they actually typed in (like what they entered in a form). It's displayed as inline text.
 - After learning this, I decided to update my [scoops](https://cloverdeveloped.github.io/scoops/) game again to instruct the user to press space to play.
 
-https://github.com/user-attachments/assets/e8603ba7-4821-4934-9062-eca7fa401cef
+<img width="485" alt="Screenshot 2025-04-16 012644" src="https://github.com/user-attachments/assets/141b0810-397d-4acd-816b-2d403a03d125" />
+
 
 
 ### <code>Code</code>
