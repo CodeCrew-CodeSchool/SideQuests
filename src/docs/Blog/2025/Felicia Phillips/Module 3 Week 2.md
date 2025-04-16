@@ -3,7 +3,7 @@
 It is week 2 day 2 of Module 3 and we are currently learning about API's and Requests. So far I understand the following:
 
 - API (Application Programming Interface) is the middleman that lets different apps talk to each other by understanding their requests.
-- A request is a message sent by an application to an API, asking it for specific data or to perform a particular action.
+- Request is a message sent by an application to an API, asking it for specific data or to perform a particular action.
 
 --- 
 
@@ -26,10 +26,10 @@ It is week 2 day 2 of Module 3 and we are currently learning about API's and Req
 - The < code > HTML element is used to show computer code or text that looks like code. It helps to visually separate it from regular text and makes it easier to read as code.
 
 
-### Projects I have developed:
+### Projects I have developed this week:
 1. [Scoops](https://cloverdeveloped.github.io/scoops/)
 2. [Portfolio Template](https://cloverdeveloped.github.io/cloverdev/)
 
-### Do I feel like a fullstack developer ?
+### ⭐Outside of class:
+After class, I freelance as a graphic designer for B Visible. I'm currently designing a magazine. 
 
-I feel like junior HTML and CSS developer. I still have a lot to learn. 
