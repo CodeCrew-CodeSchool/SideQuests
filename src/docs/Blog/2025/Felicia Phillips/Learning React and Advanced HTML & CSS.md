@@ -87,3 +87,12 @@ export default App;
 - Child components call these handler functions when events occur, passing data back to the parent.
 - This allows child components to trigger state changes in their parents, leading to UI updates.
 
+
+## Use State 
+This allows child components to trigger state changes in their parents, leading to UI updates.
+import {useState} from 'react';
+const [isOn, setIsOn] = useState(false); 
+- isOn holds the Current Value initialized to false.
+- Think of isOn as a little piece of memory within your MyComponent
+setIsOn is the update function 
+ - The Update Function - The Trigger for Change

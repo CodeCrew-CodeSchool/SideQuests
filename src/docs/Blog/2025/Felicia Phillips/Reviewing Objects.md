@@ -54,11 +54,17 @@ A constructor function is very much like a template or a blueprint for creating 
 - The constructor function itself is the blueprint. It defines the structure and initial properties that objects created from it will have.
 - When you call the constructor with new, you are using that blueprint to create a specific instance (the object). Each instance will have the properties and methods defined in the constructor, but with potentially different values for those properties.
 
+```javascript
 function Cat(name, type){
   this.name = name;
   this.type = type;
  }
  const ourCat = new Cat('Murray', 'domestic short hair');
+```
+
+**The keyword this in Listing 7-1 (and elsewhere in this chapter) refers to the context in which a function, such as the constructor function, is running. When you create a new object using the new operator and the Cat() constructor function this refers to the new object**
+
+**The Cat function expects the name as the first argument and the type as the second.**
 
  example:
 
@@ -84,7 +90,11 @@ console.log(car2.getDescription()); // Output: 2022 Honda Civic
 
 
 ###  Making objects with class
-
+**It's like bringing blueprints to life.**
+ A class is a template for objects. Many other languages have the idea of classes, but 
+the notion of a class is relatively new to JavaScript. Class syntax was introduced 
+into JavaScript in 2015 to provide programmers moving to JavaScript with a more 
+familiar way to create objects
 
  class Pet {
   constructor(name,type){
