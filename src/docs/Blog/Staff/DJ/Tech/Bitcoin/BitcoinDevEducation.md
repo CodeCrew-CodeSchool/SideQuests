@@ -91,34 +91,34 @@ In fact, a TA is assisting me in the development of a new app, tentatively title
 ### Educational Takeaways
 
 ##### For Students
-1. Engage with Material
+* Engage with Material
 
 You will likely not do much with the material or utilize it to its fullest potential unless you actively dive into your education and seek meaning and understanding. Many of us have surely had phases of life where we passively engaged with our education. At some point, you have to get your lesson and seek your desired mastery and understanding to ultimately reach whatever goal it is you have for taking the class and ultimately your life.
 
-2. Practice
+* Practice
 
 As you think through what you're absorbing through lectures, discussions, readings, etc. You'll have to apply it in some form or fashion. Hopefully your class will include plenty of examples of what that looks like, but you'll have to get your reps in utilizing and communicating the ideas that you're learning.
 
-3. Meet/Discuss/Assist
+* Meet/Discuss/Assist
 
 Check in with your classmates. Check in with your educators. Check in with your self! In each of these interactions, you can be helped or even help someone else. The magic of helping others is that your own understanding is going to solidify as you're getting in more reps by communicating your understanding and relating it to someone else so that they also understand the subject.
 Checking in with yourself, and your God, will keep you on track to succeed and fortify you against challenges that come up.
 
-4. Keep Going and Try It Again
+* Keep Going and Try It Again
 
 Don't give up. Keep trying. It really can be hard, because life is ALWAYS lifing, but you got this.
 
 ##### For Educators
 
-1. Free/Open-Source Material and Info 
+* Free/Open-Source Material and Info 
 
 Utilizing freely available material, you realize the real thing you provide in classroom is going to be personal assistance and guidance for each student. More onus is placed on students to Study, Work, and Consult educators when blockers arise.
 
-2. Open Communication and Availability
+* Open Communication and Availability
 
 Of course, being Present and available during the day is crucial to the learning of your students. Assist students in blocking issues and provide additional context to help fill in any gaps in understanding they may have. But don't do the work for them. 
 I'm personally a fan of Showing and Telling my students the building blocks and how to use them in solving known problems, preparing them with the tools to solve unknown problems in the future.
 
-3. Promote Students to Lead and Engage
+* Promote Students to Lead and Engage
 
 This strategy specifies and rewards good behavior in students. This approach to classroom management also greatly increases student agency and involvement. It does slightly ease things on the teacher, but a close eye on how the students are engaging and stepping in if need be are still a requirement.
