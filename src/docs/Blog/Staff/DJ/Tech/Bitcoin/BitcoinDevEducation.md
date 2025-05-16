@@ -42,33 +42,33 @@ This class was an INTENSE 6 weeks that started not long after the test servers f
 
 Each week, we had a few more chapter from [Learning Bitcoin from the Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/) and were given a repo of exercises to test our understanding of the material.
 
-Some of the topics we covered and worked on from the book's first 13 Chapters:
+Some key topics that we covered and worked on from the book's first 13 Chapters:
 
-Building/Installing Bitcoin Core
+1. Building/Installing Bitcoin Core
 
-Bash Scripting
+1. Bash Scripting
 
-Hexadecimal
+1. Hexadecimal
 
-Bitcoin Keys
-    
-Bitcoin Block and Transaction Structure and Protocol
+1. Bitcoin Keys
+  
+1. Bitcoin Block and Transaction Structure and Protocol
 
-Hashing Algorithms: SHA256, RIPEMD160, Hash160
+1. Hashing Algorithms: SHA256, RIPEMD160, Hash160
 
-Bitcoin Node RPC Functions and Bitcoin-CLI Commands
+1. Bitcoin Node RPC Functions and Bitcoin-CLI Commands
 
-Additional Bash CLI Commands
+1. Additional Bash CLI Commands
 
-Creating, Sending, and Managing Transactions
+1. Creating, Sending, and Managing Transactions
 
-MultiSig Transactions
+1. MultiSig Transactions
 
-Locking and Unlocking Transactions
+1. Locking and Unlocking Transactions
 
-Hardware Wallets
+1. Hardware Wallets
 
-Bitcoin Script
+1. Bitcoin Script
 
 ## Technical Takeaways and Next Steps
 
