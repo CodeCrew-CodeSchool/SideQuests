@@ -46,29 +46,29 @@ Some key topics that we covered and worked on from the book's first 13 Chapters:
 
 1. Building/Installing Bitcoin Core
 
-1. Bash Scripting
+2. Bash Scripting
 
-1. Hexadecimal
+3. Hexadecimal
 
-1. Bitcoin Keys
+4. Bitcoin Keys
   
-1. Bitcoin Block and Transaction Structure and Protocol
+5. Bitcoin Block and Transaction Structure and Protocol
 
-1. Hashing Algorithms: SHA256, RIPEMD160, Hash160
+6. Hashing Algorithms: SHA256, RIPEMD160, Hash160
 
-1. Bitcoin Node RPC Functions and Bitcoin-CLI Commands
+7. Bitcoin Node RPC Functions and Bitcoin-CLI Commands
 
-1. Additional Bash CLI Commands
+8. Additional Bash CLI Commands
 
-1. Creating, Sending, and Managing Transactions
+9. Creating, Sending, and Managing Transactions
 
-1. MultiSig Transactions
+10. MultiSig Transactions
 
-1. Locking and Unlocking Transactions
+11. Locking and Unlocking Transactions
 
-1. Hardware Wallets
+12. Hardware Wallets
 
-1. Bitcoin Script
+13. Bitcoin Script
 
 ## Technical Takeaways and Next Steps
 
