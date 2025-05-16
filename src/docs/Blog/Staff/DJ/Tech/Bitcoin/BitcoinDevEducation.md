@@ -44,31 +44,31 @@ Each week, we had a few more chapter from [Learning Bitcoin from the Command-Lin
 
 Some key topics that we covered and worked on from the book's first 13 Chapters:
 
-1. Building/Installing Bitcoin Core
+- Building/Installing Bitcoin Core
 
-2. Bash Scripting
+- Bash Scripting
 
-3. Hexadecimal
+- Hexadecimal
 
-4. Bitcoin Keys
+- Bitcoin Keys
   
-5. Bitcoin Block and Transaction Structure and Protocol
+- Bitcoin Block and Transaction Structure and Protocol
 
-6. Hashing Algorithms: SHA256, RIPEMD160, Hash160
+- Hashing Algorithms: SHA256, RIPEMD160, Hash160
 
-7. Bitcoin Node RPC Functions and Bitcoin-CLI Commands
+- Bitcoin Node RPC Functions and Bitcoin-CLI Commands
 
-8. Additional Bash CLI Commands
+- Additional Bash CLI Commands
 
-9. Creating, Sending, and Managing Transactions
+- Creating, Sending, and Managing Transactions
 
-10. MultiSig Transactions
+- MultiSig Transactions
 
-11. Locking and Unlocking Transactions
+- Locking and Unlocking Transactions
 
-12. Hardware Wallets
+- Hardware Wallets
 
-13. Bitcoin Script
+- Bitcoin Script
 
 ## Technical Takeaways and Next Steps
 
