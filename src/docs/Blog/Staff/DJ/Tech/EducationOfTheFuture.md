@@ -39,4 +39,4 @@ This is Beale St
 This is Memphis
 This is CodeCrew CodeSchool
 
-hashtag#CodeCrewCodeSchool hashtag#CodingBootcamp hashtag#GritGrindCode hashtag#SoftwareDevelopment hashtag#TheSouthGotSomethingToSay hashtag#OpenForWork
+#CodeCrewCodeSchool #CodingBootcamp #GritGrindCode #SoftwareDevelopment #TheSouthGotSomethingToSay #OpenForWork
