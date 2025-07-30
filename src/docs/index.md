@@ -26,6 +26,8 @@ Below you'll find our initial setup guide to get started with course work, the c
 
 ### Student Blogs
 
+[202508 Cohort](/Blog/2025/)
+
 [202501 Cohort](/Blog/2025/)
 
 [202408 Cohort](/Blog/2024/)
