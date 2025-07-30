@@ -16,6 +16,10 @@
 
 10/21/24 [Techie Media](./TechieMedia.md)
 
+02/20/25 [Future](./Future.md)
+
+05/11/25 [AfroCyberFuturistic Education](./EducationOfTheFuture.md)
+
 ### Bitcoin
 
 8/13/24 [Bitcoin Education - Bitcoin Part 1](./BitcoinEducation.md)
@@ -27,6 +31,8 @@
 10/03/24 [Additional Resources to Understand Bitcoin](./Bitcoin/Resources.md)
 
 10/14/24 [Unconference](./Bitcoin/Unconference.md)
+
+05/16/25 [Open Source Education](./Bitcoin/BitcoinDevEducation.md)
 
 <!--
 9/20/24 [Mining Companies in Memphis](./Bitcoin/)

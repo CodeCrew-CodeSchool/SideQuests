@@ -4,12 +4,52 @@
 
 [BITCON](https://bitcon.blacksintechnology.net/)
 
+[gitnation](https://gitnation.org/)
+
+[RenderATL](https://www.renderatl.com/)
+
+[DelTech](https://www.epicentermemphis.org/deltech-conference)
+
+### Company Based
+
+[AWS re:invent](https://reinvent.awsevents.com/)
+
+[Microsoft Build](https://build.microsoft.com/en-US/home)
+
+[Google IO](https://io.google/2025/)
+
+[Apple WWDC](https://developer.apple.com/wwdc25/)
+
+### Industry Based
+
 [Game Developers Conference](https://gdconf.com/)
+
+[Black Hat USA](https://www.blackhat.com/us-25/)
+
+### Language / Platform
+
+[CppCon](https://cppcon.org/)
 
 [.NETCONF](https://www.dotnetconf.net/)
 
-[gitnation](https://gitnation.org/)
+[Javascript](https://jsnation.us/)
 
+[International Javascript](https://javascript-conference.com/new-york/)
+
+[React](https://reactsummit.us/)
+
+[NodeJS](https://nodecongress.com/)
+
+[Python](https://us.pycon.org/2025/)
+
+[Django](https://2025.djangocon.us/)
+
+
+### Tool Based
+
+[State of Unreal](https://www.unrealengine.com/en-US/state-of-unreal)
+
+[Unite](https://unity.com/events/unite)
 
 ### Professional Organizations
 
@@ -51,6 +91,8 @@ Community Site [Codenewbie](https://community.codenewbie.org/)
 Hackathons[Devpost](https://devpost.com/)
 
 [itch.io](https://itch.io)
+
+
 
 ### AND MORE!
 

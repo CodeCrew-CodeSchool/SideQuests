@@ -1,0 +1,36 @@
+## ⭐ Reviewing Higher-Order Functions
+
+Higher-Order Functions: These are functions that operate on other functions, either by taking them as arguments or by returning them. In your list, each of these array methods accepts a callback function as an argument, which it then executes for each (or certain) elements of the array.
+
+examples:  forEach(), map(), filter(), reduce(), find(), findIndex()
+
+### ⭐forEach()
+- Purpose: Executes a provided callback function once for each element in the array.
+- Return Value: undefined. It does not create a new array or modify the original array directly (unless the callback function does so).
+- Use Case: Primarily used to perform an action for every element in an array, like logging information, updating a counter, or triggering side effects.
+
+### ⭐ map()
+- Purpose: Creates a new array populated with the results of calling a provided callback function on every element in the calling array.
+- Return Value: A new array with the results of applying the callback to each element. The original array remains unchanged.
+- Use Case: Transforming the elements of an array. For example, converting an array of numbers to their squares, or an array of objects to an array of their names.
+
+### ⭐ filter()
+- Purpose: Creates a new array with all elements that pass the test implemented by the provided callback function.
+- Return Value: A new array containing only the elements for which the callback function returns a truthy value. The original array remains unchanged.
+- Use Case: Selecting a subset of elements from an array based on a specific condition. For example, filtering an array of numbers to get only the even numbers.
+
+### ⭐ reduce()
+- Purpose: Executes a reducer callback function on each element of the array, resulting in a single output value.
+- Return Value: The single value that results from the reduction.
+- Use Case: Useful for performing calculations across all elements of an array, such as summing numbers, concatenating strings, or transforming an array into a single object.
+
+### ⭐ find()
+- Purpose: Returns the first element in the provided array that satisfies the provided testing function. If no elements satisfy the testing function, undefined is returned.   
+- Return Value: The first element in the array that passes the test; otherwise, undefined. The original array remains unchanged.
+- Use Case: Finding a specific element in an array based on a condition. For example, finding the first user object with a specific ID.
+
+### ⭐ findIndex()
+- Purpose: Returns the index of the first element in the array that satisfies the provided testing function. Otherwise, it returns -1, indicating that no element passed the test.   
+- Return Value: The index of the first element that passes the test; otherwise, -1. The original array remains unchanged.
+- Use Case: Finding the position of a specific element in an array based on a condition. This is useful when you need to know where an element is located rather than the element itself.
+
