@@ -1,7 +1,10 @@
 # 2025 Cohorts
 
 Use the sidebar or start with these entries to navigate.:
- 
+
+### 202508
+
+
 ### 202501
 
  
@@ -38,6 +41,3 @@ Use the sidebar or start with these entries to navigate.:
  [Dustin](/Blog/2025/DustinPeek)
 
  <a href="Blog/2025/FeliciaPhillips>Felicia</a>
- 
-
-### 202508
