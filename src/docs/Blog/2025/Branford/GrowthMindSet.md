@@ -3,7 +3,7 @@
 ![plant Growth](https://media4.manhattan-institute.org/sites/cj/files/economic-growth-is-still-our-best-hope.jpg)
 
 
-## what is a Growth Mindset?
+## What is a Growth Mindset?
 
 A growth mindset is the belief that intelligence and talent are helpful, but true growth comes from dedication, persistence, and resilience. These qualities are the key tools that drive personal development.
 
