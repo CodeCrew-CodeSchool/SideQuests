@@ -10,7 +10,7 @@ Use the sidebar or start with these entries to navigate.:
 
 [Branford](/Blog/2025/Branford)
 
-[Meghan](/Blog/2025/MeghanCarr)
+[Meghan](/Blog/2025/MegaMoon)
 
 ### 202501
 
