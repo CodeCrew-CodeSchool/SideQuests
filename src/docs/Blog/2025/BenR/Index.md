@@ -12,7 +12,7 @@
 
 |Blog Name|Date|
 |---|---|
-|Growing Mindset|July 30, 2025|
+|[Growing Mindset](C:\Users\benre\OneDrive\Documents\GitHub\SideQuests\src\docs\Blog\2025\BenR\Module1Blogs\Week0Blogs\30JUL2025.md)|July 30, 2025|
 
 ---
 
