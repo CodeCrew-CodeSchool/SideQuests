@@ -5,6 +5,7 @@ Use the sidebar or start with these entries to navigate.:
 ### 202508
 [ojesh](/Blog/2025/OjeshUpadhyay)
 
+[Branford](/Blog/2025/Branford)
 
 ### 202501
 
