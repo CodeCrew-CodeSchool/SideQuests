@@ -1,3 +1,4 @@
+## Definitions
 html-HTML file
 
 head-element for metadata(data about data) and is placed bewteen the html tag and the body tag
@@ -15,3 +16,8 @@ p-A paragraph of text
 a-Anchor tag is for Links. Specify the URL and where the link should open (current tab, new tab, new window)
 
 button-A button
+
+## Assignment
+
+You can have a shortcut to automatically fill a html basic 
+
