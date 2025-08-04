@@ -14,6 +14,8 @@ Use the sidebar or start with these entries to navigate.:
 
 [Corey](/Blog/2025/Corey)
 
+[Bianca](/Blog/2025/bduran-ink)
+
 ### 202501
 
  [Diana](/Blog/2025/dianamontero7/)
