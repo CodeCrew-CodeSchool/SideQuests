@@ -12,8 +12,8 @@
 
 |Blog Name|Date|
 |---|---|
-|[Growing Mindset](C:\Users\benre\OneDrive\Documents\GitHub\SideQuests\src\docs\Blog\2025\BenR\Module1Blogs\Week0Blogs\30JUL2025.md)|July 30, 2025|
-
+|[Growing Mindset](30JUL2025.md)|July 30, 2025|
+|[Beginner HTML Musings](04AUG2025.html)|Aug 4, 2025|
 ---
 
 #### And if you wanna stay in touch with what I'm doing, you should check out [this niftier link](https://github.com/Lizardtamer)

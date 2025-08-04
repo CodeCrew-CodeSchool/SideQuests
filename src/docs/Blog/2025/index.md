@@ -6,7 +6,7 @@ Use the sidebar or start with these entries to navigate.:
 
 [ojesh](/Blog/2025/OjeshUpadhyay)
 
-[Ben](/Blog/2025/BenR)
+[Ben](Blog/2025/BenR)
 
 [Branford](/Blog/2025/Branford)
 
