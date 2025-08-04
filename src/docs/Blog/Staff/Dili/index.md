@@ -8,4 +8,4 @@ you might find a haiku here.
 
 Please enjoy the blog!
 
-[Growth Mindset](src\docs\Blog\Staff\Dili\1-GrowthMindset.md)
+[Growth Mindset](1-GrowthMindset.md)
