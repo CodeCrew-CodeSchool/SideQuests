@@ -1,5 +1,5 @@
 ## Hello everyone, My name is Roberto. welcome to my blog!
 
-I love playing drums and video games!
+This blog will be about how far I've come in codecrew.
 
 There is more to come on my blog.
