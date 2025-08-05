@@ -5,7 +5,7 @@
 
 - a/ href="URL">text<?/a - Hyperlink
 
-- img src="Random" alt= - An image
+- img src="Random" alt="Random image" - An image
 
 ## Describe:
 I can put the hyperlink above the image by using "br".
