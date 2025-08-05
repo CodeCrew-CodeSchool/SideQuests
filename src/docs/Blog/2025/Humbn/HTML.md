@@ -1,11 +1,11 @@
 ## Define:
-<hh1><///h1> - Important Heading
+<h1//h1> - Important Heading
 
-<hh6><//h6> - Least Important Heading
+<h6//h6> - Least Important Heading
 
-<a/ href="URL">text<?/a> - Hyperlink
+a/ href="URL">text<?/a - Hyperlink
 
-<iiiimg src="Random" alt="Random imageeee""> - An image
+img src="Random" alt="Random image"" - An image
 
 ## Describe:
-I can put the hyperlink above the image by using "<<br>".
+I can put the hyperlink above the image by using "br".
