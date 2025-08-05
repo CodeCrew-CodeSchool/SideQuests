@@ -12,8 +12,10 @@
 
 |Blog Name|Date|
 |---|---|
-|[Growing Mindset](/30JUL2025.md)|July 30, 2025|
-|[Beginner HTML Musings](/04AUG2025.md)|Aug 4, 2025|
+|[Ain't gonna lie chat](/Blog/2025/BenR/Module1Blogs/Week1Blogs/05AUG2025.md)|Aug 5, 2025|
+|[Beginner HTML Musings](/Blog/2025/BenR/Module1Blogs/Week1Blogs/04AUG2025.md)|Aug 4, 2025|
+|[Growing Mindset](/Blog/2025/BenR/Module1Blogs/Week0Blogs/30JUL2025.md)|July 30, 2025|
+
 
 ---
 
