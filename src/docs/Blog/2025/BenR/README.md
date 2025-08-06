@@ -1,4 +1,5 @@
-# **What up gang**
+# Home Page
+## **What up gang**
 
 ![bigchungus](https://www.vice.com/wp-content/uploads/sites/2/2022/09/1662049678863-screen-shot-2022-09-01-at-122736-pm.png)
 
@@ -12,6 +13,7 @@
 
 |Blog Name|Date|
 |---|---|
+|[Or: How I Learned to Stop Worrying & Love the Code](/Week1Blogs/06AUG2025.md)|Aug 6th, 2025|
 |[Ain't gonna lie chat](/Week1Blogs/05AUG2025.md)|Aug 5, 2025|
 |[Beginner HTML Musings](/Week1Blogs/04AUG2025.md)|Aug 4, 2025|
 |[Growing Mindset](/Week0Blogs/30JUL2025.md)|July 30, 2025|
