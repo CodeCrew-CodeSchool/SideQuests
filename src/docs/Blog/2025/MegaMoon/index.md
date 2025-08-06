@@ -1,1 +1,1 @@
-Blog link needs this file. 
+index.md - Blog link needs this file. 
