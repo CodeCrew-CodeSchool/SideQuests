@@ -1,4 +1,5 @@
-# **What up gang**
+# Home Page
+## **What up gang**
 
 ![bigchungus](https://www.vice.com/wp-content/uploads/sites/2/2022/09/1662049678863-screen-shot-2022-09-01-at-122736-pm.png)
 
