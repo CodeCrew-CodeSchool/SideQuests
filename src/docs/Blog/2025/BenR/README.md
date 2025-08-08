@@ -13,9 +13,11 @@
 
 |Blog Name|Date|
 |---|---|
+|[](/Week1Blogs/07AUG2025.md)|Aug 7th, 2025|
 |[Or: How I Learned to Stop Worrying & Love the Code](/Week1Blogs/06AUG2025.md)|Aug 6th, 2025|
 |[Ain't gonna lie chat](/Week1Blogs/05AUG2025.md)|Aug 5, 2025|
 |[Beginner HTML Musings](/Week1Blogs/04AUG2025.md)|Aug 4, 2025|
+|[Completed the First Week](/Week0Blogs/31JUL2025.md)|July 31, 2025|
 |[Growing Mindset](/Week0Blogs/30JUL2025.md)|July 30, 2025|
 
 
