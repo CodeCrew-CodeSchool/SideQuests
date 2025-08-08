@@ -1,0 +1,92 @@
+# Jul 31, 2025
+
+## Completed the First Week
+
+## Intro
+
+This week was the first week of Code Crew, and I learned a lot of enthralling things. Here's a list of things I learned this week.
+
+---
+
+### **1. How to Set up Computer for Coding**
+
+We had to make sure our computers were ready for coding. We needed to make sure we had an account on **GitHub**. We needed a coding interface, so we installed **VSCode**. We needed a way to get GitHub stuff to VSCode, so we installed **Git**.
+
+Git was specifically the most difficult thing in the short term, but I get it now so I don't particularly feel as confused as I did at first.
+
+---
+
+### **2. How to Navigate and Utilize Git/GitHub**
+
+GitHub is a website where you can build coding repositories. **Repositories** are storage spaces for coding. What's cool about the GitHub repos are that it offers the ability for **version control** and **branching**
+
+>Version control: system to record file changes overtime incase you gotta rewind cause something is goofy now.
+>Branching: you basically make a copy of a repo that you can make changes to that doesn't affect the main timeline. It's used to experiment and test. And when you're ready, you can actually merge the branch back into the main repo.
+
+Basically, you need to download the repo and then you can make the changes to the files and then reupload the files back into GitHub. The way you do this is either coding with Git and going through this whole rigamarole of typing a bunch of code, and it's a bit inefficient.
+
+The trick is to just download GitHub Desktop, go to the repo you want on their website, and then there's an option to automatically pull and clone the repo to your computer without going through this giant process. Saved me mins of my life, bro.
+
+---
+
+### **3. How to Think Like a Coder**
+
+In the simpliest way possible, coding is talking to a computer. To get more specific, you're telling the computer how to algorithmically complete tasks.
+
+I've realized that if I have a task, I need to tell the computer how to do that, and I need to do it in the simpliest way possible without overcomplicating things.
+
+It's easier said than done I'm sure, but so far, it's come very intuitive so far and I don't feel particularly overwhelmed with the course material.
+
+---
+
+### **4. How to Navigate and Utilize VSCode**
+
+VSCode is the coding interface we use (it's what I'm using right now to code :eyes:). You can code in pretty much any code on here, navigate and create folders. And you can talk with GitHub via GitHub Desktop.
+
+I've been mostly using Markdown. I do know a little HTML, so I'm gonna take a stab at using that a little. So I'll have to make an HTML file.
+
+---
+
+### **5. Writing Code in Markdown**
+
+**Markdown** is a simple **Markup** code. If you're a neat freak like me, then Markdown has already been a blessing in the last 24hrs. It's so easy, and it's intuitive. I feel like this is what I've needed and never knew I needed it. Like idk dude. Thanks, John Gruber.
+
+[John Gruber's mugshot](https://upload.wikimedia.org/wikipedia/commons/6/64/John_Gruber%2C_2009_%28cropped%29.jpg)
+
+---
+
+### **6. How to Troubleshoot Code**
+
+So, I've already run into some issues here and there with some syntax. I've come up with a process already of how to troubleshoot:
+
+    1. See if there's a syntax error. Hopefully I've already installed a plugin that will tell me specfically if there's an issue and how to fix it. If I didn't, I better go find one asap.
+
+    2. Check the Markdown cheat sheet to see if I messed up. I may actually have to go to the page that talks about each syntax more indepth to gain more knowledge.
+
+    [me gaining more knowledge](https://static.wikia.nocookie.net/jimmyneutron/images/0/05/Sheen_The_God.jpg/revision/latest/scale-to-width-down/1000?cb=20210704010416)
+
+    3. If that doesn't work, I do what every good coder and IT guy does: I Google it. If you're a millennial or older Gen Z, then that also means ask Reddit.
+
+    4. If that doesn't work, I start to panic and I have two options: Pretend the problem doesn't exist and work around it. OR... ask Dili lmao.
+
+    5. If none of that works, I'm probably better off waiting until my coding skills develop more. I may have this problem solved easily in the next two to three months.
+
+---
+
+### **7. How to Communicate with Others on Coding Projects**
+
+This week, I've had to collaborate a little with my fellow students. I may have grasped a concept earlier than they have, so I can share that information with them one-on-one if Dili isn't able to attend to them right away. This has also worked in the reverse.
+
+I feel this has been important because if I understand correctly, we will have group projects and we will have to get to know each other and learn to trust one another.
+
+Just because coding is a language that we use to talk to computers, it doesn't mean we can neglect the social aspects of coding, and that is a whole interdependent skill that also needs to be learnt with coding.
+
+---
+
+## Outro
+
+It's pretty nifty honestly. Uh, see ya I guess.
+
+---
+
+### [**Always** remember this...](https://www.youtube.com/watch?v=vBjzAdpZzf0)
