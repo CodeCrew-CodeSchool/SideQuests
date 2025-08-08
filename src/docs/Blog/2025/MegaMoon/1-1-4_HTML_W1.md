@@ -1,8 +1,8 @@
 # 1.1.3 - HTML Reflection on Days 1-3
 
 ## Main points
-**Typing intensive**: Takes a lot of extra typing, compared to MarkDown. HTML is typing-intensive because you must write out all the tags and attributes to describe a webpage’s structure
-**Tricky**: Pairs, distracted, separation of some start and end markers, 
+**Typing intensive**: HTML takes a lot of extra typing, compared to MarkDown, because of the tags and attributes to create the structure of a website.
+**Tricky**: The symbols istracted, separation of many start and end markers. But AI provides helpful recommendations.
 **Limited alternatives**: XML is similar and Markdown may be too simplistic.
 Why isn't this showing? 
 Make a last comment on my points to add space
