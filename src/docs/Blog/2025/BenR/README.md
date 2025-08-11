@@ -13,6 +13,7 @@
 
 |Blog Name|Date|
 |---|---|
+|[CSS: Playing with My Design Obsession](/Week2Blogs/11AUG2025.md)|Aug 11th, 2025|
 |[Week 2 Completed](/Week1Blogs/07AUG2025.md)|Aug 7th, 2025|
 |[Or: How I Learned to Stop Worrying & Love the Code](/Week1Blogs/06AUG2025.md)|Aug 6th, 2025|
 |[Ain't gonna lie chat](/Week1Blogs/05AUG2025.md)|Aug 5, 2025|
