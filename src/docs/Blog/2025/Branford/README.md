@@ -13,6 +13,9 @@ Today we learned how to use semantic tags properly to create ordered list (ol), 
 ### 8/6
 Today was about adding videos and audio files to vscode and to integrate them properly using vscode. tags like < img >, < video >, and < audio > have all been used in today's assignment. I had difficulty starting out but I eventually picked up on it as the day went by.
 
+### 8/11
+Today was an introduction to styling with CSS. I found it intuitive and farely easy. I know now that there are multiple ways to style an html document.
+
 
 
 [GitHub Account](https://github.com/Brranforrd/Brranforrd)
