@@ -17,7 +17,7 @@ Today was about adding videos and audio files to vscode and to integrate them pr
 Today was an introduction to styling with CSS. I found it intuitive and farely easy. I know now that there are multiple ways to style an html document.
 
 ### 8/12
-Today we learned different methods to style an html document. 3 different methods to use: external, internal, and in-line. these methods are relatively easy for me to master so I'll need some time to practice it.
+Today we learned different methods to style an html document. 3 different methods to use: external, internal, and in-line. these methods are relatively easy for me to master ,but I'll need some time to practice it.
 
 
 
