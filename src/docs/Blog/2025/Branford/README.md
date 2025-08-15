@@ -19,6 +19,9 @@ Today was an introduction to styling with CSS. I found it intuitive and farely e
 ### 8/12
 Today we learned different methods to style an html document. 3 different methods to use: external, internal, and in-line. these methods are relatively easy for me to master ,but I'll need some time to practice it.
 
+### 8/13
+Today we learned about the webpage box model. This model is especially important because it taught me how to be detailed on what specifics I want styled using different types of selectors. The selectors include: id, class, element, and universal (*).
+
 
 
 [GitHub Account](https://github.com/Brranforrd/Brranforrd)
