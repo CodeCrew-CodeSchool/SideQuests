@@ -22,6 +22,10 @@ Today we learned different methods to style an html document. 3 different method
 ### 8/13
 Today we learned about the webpage box model. This model is especially important because it taught me how to be detailed on what specifics I want styled using different types of selectors. The selectors include: id, class, element, and universal (*).
 
+### 8/25
+Tody we learned about the basics of control flow, conditionals, and loops. This was a little confusing at first but eventually undeerstood.
+
+
 
 
 [GitHub Account](https://github.com/Brranforrd/Brranforrd)
