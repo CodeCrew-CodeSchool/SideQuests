@@ -1,3 +1,42 @@
+# CS Projects 
+
+The following are some of our top projects and reference materials for young developers to grow their technical expertise in a variety of areas: 
+
+Web 
+
+Mobile
+
+Game
+
+Bitcoin
+
+AI
+
+1. [SideQuests](https://github.com/CodeCrew-CodeSchool/SideQuests)
+
+Collection of extra credit resources, student and staff blog, and extra-curricular Computer Science specializations
+
+<!-- [The Queue](https://github.com/CodeCrew-CodeSchool/the-queue) -->
+
+2. [CubeCrusher](https://github.com/CodeCrew-CodeSchool/CubeCrusher)
+
+Open source HTML + JS game based on the classic Brick Breaker. Contribute and take the game to the next level!
+
+<!-- [CodeCrew LeetCode](https://github.com/CodeCrew-CodeSchool/CodeCrew-Leetcode) -->
+
+3. [C Game Template](https://github.com/CodeCrew-CodeSchool/c-game-template)
+
+Template for creating games using Raylib for Web browser. Learn Game Programming with streamlined tooling.
+
+4. [BTC Wallet](https://github.com/CodeCrew-CodeSchool/BTC_Wallet)
+
+Bitcoin Wallet Mobile Application. Learn about Bitcoin technology and take your finances into your own hands.
+
+5. [Finance_GeniusAI](https://github.com/CodeCrew-CodeSchool/Finance_GeniusAI)
+
+Financial Tips and Tricks delivered via AI. Learn practical tips to save and take control of your finances with your own Digital Wallet.
+
+<!-- 
 ## Name: C Suite
 
 ### Description: Code School App Suite (And Ideas)
@@ -87,7 +126,7 @@
 
 15. Code School Meta Llama 3 AI API Service
 
-<!-- ### Pending Org Structure
+### Pending Org Structure
 
 Game Studio {}
 App Studio {}
