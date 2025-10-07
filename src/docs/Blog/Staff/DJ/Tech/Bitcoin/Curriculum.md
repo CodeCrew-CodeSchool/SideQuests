@@ -4,19 +4,20 @@
 
 ## Financial Literacy
 
-[Bitcoin Diploma](../BitcoinDiploma2024.pdf)
+[Bitcoin Diploma](../BitcoinDiploma2025.pdf)
 
 ## Bitcoin + CyberSecurity
 
-Wallet
-Encryption
-Hot/Cold
+Learn about: 
+
+- Wallet (Hot/Cold)
+- Encryption
 
 
 ## Protocol Developer
 
-Mastering Bitcoin
+Read Mastering Bitcoin
 
 ## API Developer
 
-BitcoinPlebDevs
+Follow BitcoinPlebDevs

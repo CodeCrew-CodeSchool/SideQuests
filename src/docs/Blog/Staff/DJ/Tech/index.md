@@ -20,6 +20,8 @@
 
 05/11/25 [AfroCyberFuturistic Education](./EducationOfTheFuture.md)
 
+10/07/25 [The Fundamentals - Kelsey Hightower](./Fundamentals.md)
+
 ### Bitcoin
 
 8/13/24 [Bitcoin Education - Bitcoin Part 1](./BitcoinEducation.md)
@@ -34,6 +36,7 @@
 
 05/16/25 [Open Source Education](./Bitcoin/BitcoinDevEducation.md)
 
+09/20/25 [Imagine If Summit](./Bitcoin/Imagine/index.md)
 <!--
 9/20/24 [Mining Companies in Memphis](./Bitcoin/)
 

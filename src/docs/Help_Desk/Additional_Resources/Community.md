@@ -66,13 +66,23 @@
 
 ### Online and IRL Community Tools
 
-Software Repos and Social [github.com](https://github.com)
+Software Repos and Social - [github.com](https://github.com)
 
-Forum [Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/)
+Forum - [Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/)
 
-Q&A [Stack Overflow](https://stackoverflow.com/)
+Q&A - [Stack Overflow](https://stackoverflow.com/)
 
-IRL [Meetup.com](https://meetup.com)
+IRL - [Meetup.com](https://meetup.com)
+
+- DevMemphis / MemTech [Website](https://memphistechnology.org)  |   [Discord](https://discord.gg/FHh8BndHpK)
+
+- Code Connector [Slack](https://join.slack.com/t/code-connector/shared_invite/zt-2pk1hjm0h-BRRnFIdrvDURjDkdrca21g)
+ 
+- Memphis Game Dev [Website](http://www.memphisgamedevelopers.org/)
+ 
+- BDPA Memphis | [Website](https://bdpamemphis.org/)  |  [Discord](https://discord.gg/QYqcppFJA3)
+ 
+- MidSouth Makers [Website](https://www.midsouthmakers.org/)
 
 - [#Memtech](https://www.meetup.com/memphis-technology-user-groups/)
 
@@ -80,17 +90,17 @@ IRL [Meetup.com](https://meetup.com)
 
 [Hacker News](https://news.ycombinator.com/)
 
-Competitive Algorithm Challenges[HackerRank](https://www.hackerrank.com/)
+Competitive Algorithm Challenges - [HackerRank](https://www.hackerrank.com/)
 
-Solo Algo Challenges[Leetcode](https://leetcode.com/)
+Solo Algo Challenges - [Leetcode](https://leetcode.com/)
 
-Social Media[dev.to](https://dev.to)
+Social Media - [dev.to](https://dev.to)
 
-Community Site [Codenewbie](https://community.codenewbie.org/)
+Community Site - [Codenewbie](https://community.codenewbie.org/)
 
-Hackathons[Devpost](https://devpost.com/)
+Hackathons - [Devpost](https://devpost.com/)
 
-[itch.io](https://itch.io)
+Indie Games, Game Jams, and Dev Resources - [itch.io](https://itch.io)
 
 
 
