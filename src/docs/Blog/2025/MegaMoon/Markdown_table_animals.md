@@ -1,5 +1,4 @@
 
-
 ### Vertebrate animals
 
 **Vertebrate animal classes – Taxonomic classification**
