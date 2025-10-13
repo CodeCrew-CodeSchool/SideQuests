@@ -16,6 +16,10 @@
 6. Browser Receives Response: Browser interprets the data, renders the web page (or updates part of it), and displays it to the user
 
 
+***Diagrams - simple and more complex https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Server-side/First_steps/Client-Server_overview***
+
+
+
 - **HTTP requests** 
 
 A message sent from a client (like a browser) to a server asking for data or to perform an action (e.g., view a page or submit a form). The action includes details like the method (GET, POST, etc.), the URL, and sometimes extra information (like headers or form data). Two example follow - each starting with CAP letters.
@@ -45,13 +49,13 @@ Overview of what API integration means and how it appears in a simple webpage:
 
 🧩 Simple Example Syntax - HTML, then JS
 
-HTML (display area and button):
+**HTML (display area and button)**
 
 <button onclick="getWeather()">Show Weather</button>
 <p id="weather"></p>
 
 
-JavaScript (fetching data from an example API, and catch in case of problems):
+**JavaScript (fetching data from an example API, and catch in case of problems)**
 
 function getWeather() {
   fetch('https://api.example.com/weather?city=Memphis')
