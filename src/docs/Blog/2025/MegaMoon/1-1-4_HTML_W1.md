@@ -1,4 +1,4 @@
-# 1.1.3 - HTML Reflection on Days 1-3
+# 1.1.4 - HTML - Week 1
 
 ## Main points
 **Typing intensive**: HTML takes a lot of extra typing, compared to MarkDown, because of the tags and attributes to create the structure of a website.
