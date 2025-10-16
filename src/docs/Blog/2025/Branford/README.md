@@ -25,6 +25,12 @@ Today we learned about the webpage box model. This model is especially important
 ### 8/25
 Tody we learned about the basics of control flow, conditionals, and loops. This was a little confusing at first but eventually undeerstood.
 
+### 10/7
+Back from hibernation. Started learning React today. I don't fully understand it yet although I understand its functionality.
+
+### 10/15
+This week we learned the HTTP get request methods. the functionality aspect of it I understand. The syntax is going to take some practice.
+
 
 
 
