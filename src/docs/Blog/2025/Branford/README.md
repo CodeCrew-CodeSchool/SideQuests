@@ -31,6 +31,9 @@ Back from hibernation. Started learning React today. I don't fully understand it
 ### 10/15
 This week we learned the HTTP get request methods. the functionality aspect of it I understand. The syntax is going to take some practice.
 
+### 10/16
+Today we reviewed more HTTP request methods and more API Calling. I am going to need some practice time down before I feel confident in it.
+
 
 
 

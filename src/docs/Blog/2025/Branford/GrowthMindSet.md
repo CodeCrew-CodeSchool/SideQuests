@@ -17,4 +17,4 @@ A growth mindset is the belief that intelligence and talent are helpful, but tru
     - Have confidence in yourself when nobody else does
 
 3. Remember how far you've come.
-    - knowing the hard work you've achieved will help you understand that your dedication and perserverance isn't going unnoticed
+    - knowing the hard work you've achieved will help you understand that your dedication and perserverance isn't going unnoticed 
