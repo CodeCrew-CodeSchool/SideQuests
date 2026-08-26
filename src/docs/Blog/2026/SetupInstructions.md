@@ -13,17 +13,35 @@
 
 ### Part 2: Add Content
 
-Add a folder inside of the 2026 folder with your Github username on it. 
+1. In the src/docs/Blog/20XX/ folder, 20XX should match the year you joined CodeSchool, add a folder with your github username on it. 
 
-It should contain a single file titled index.md or README.md along with a second markdown file with a name of your choice.
-Since you'll be writing about a Growth Mindset,
+2. In the folder that you created for your username:
 
+- Create a single file titled `index.md` or `README.md` This file will serve as the home page for your personal section of the blog website.
+
+- The file name for this first file (either `index.md` or `README.md`) is case sensitive and must be written exactly as displayed here.
+
+3. To add more blog posts. Continue creating files in the folder you created with your username. 
+
+When you create new files or folders, do not include spaces or special characters in the file or folder name. Instead use hyphens, underscores, camelCasing, or PascalCasing to indicate multiple words.
+
+Example:
+ `Code School.md` is an invalid file name. ❌
+
+`codeSchool.md`, `CodeSchool.md`, `Code-School.md`, and `Code_School.md` are all valid patterns. ✅
+
+
+Since Your first blog post will be about a Growth Mindset,
+here are some ideas for file names:
+```
     GrowthMindset.md
     1-GrowthMindset.md
-    1-31-24.md
+    08-25-2026.md
+```
 
-are all reasonable choices based on the content, the fact that this is your 1st blog, and that the class is from Jan 31, 2024.
-Feel free to be creative and remember to avoid using spaces in the file & folder nameswsl.
+These are all reasonable choices based on the content, the fact that this is your 1st blog, and that the class is from Aug 25, 2026.
+
+Feel free to be creative and remember to avoid using spaces in the file & folder names.
 <!-- folder titled Portfolio with a file that has the same name. -->
 
 ![Example File Structre](/Imgs/Blog_File_Structure.png  "image_tooltip")
@@ -39,7 +57,7 @@ In a Web Browser:
 
 ### Part 3: Update YOUR Link
 
-Now that your content is created in the repo, go back to the index.md file in the docs folder.
+Now that your content is created in the repo, go back to the `index.md` file in the 2026 folder.
 
 ![Site Index File View](/Imgs/Site_Index.png "image_tooltip")
 
@@ -48,7 +66,7 @@ After the last slash, add your Github username to the link and save the file.
 
 ### Git Push, Toast 🍻🥂
 
-Now, simply A-C-P
+Now, simply Add-Commit-Push
 
 [VSCode Source Control](https://code.visualstudio.com/docs/sourcecontrol/overview)
 
@@ -58,6 +76,12 @@ Git CLI [A](https://git-scm.com/docs/git-add)-[C](https://git-scm.com/docs/git-c
 
 `git add -A` <!--add/stage all new and changed files to your next commit-->
 
-`git commit -m "mrjones91 blog and directions"` <!-- create your commit and set a message to log what contents are in this update -->
+`git commit -m "mrjones91 blog and directions"` <!-- create your commit and set a custom message to log what contents are in this update -->
 
 `git push` <!-- push your changes back to the repo--> 
+
+If your `git push` command fails, try using `git pull`.
+
+ `git pull` <!-- Will update your local repository with the changes from the cloud. -->
+
+Then try to `git push` again.

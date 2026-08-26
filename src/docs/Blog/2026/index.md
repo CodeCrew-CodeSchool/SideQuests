@@ -1,4 +1,4 @@
-# 2025 Cohorts
+# 2026 Cohorts
 
 Use the sidebar or start with these entries to navigate:
 

@@ -2,9 +2,9 @@
 
 ## Student Blogs
 
-1. In the /Blog/20XX/ folder, 20XX should match the year you joined CodeSchool, add a folder with your name on it. 
+1. In the src/docs/Blog/20XX/ folder, 20XX should match the year you joined CodeSchool, add a folder with your github username on it. 
 
-2. In the folder that you created for your name:
+2. In the folder that you created for your username:
 
 - Create a single file titled `index.md` or `README.md` This file will serve as the home page for your personal section of the blog website.
 
@@ -12,16 +12,17 @@
 
 - Then create a folder titled Portfolio.
 
-3. To add more blog posts. Continue creating files in the folder you created with your name. 
+3. To add more blog posts. Continue creating files in the folder you created with your username. 
 
 The new files can have their own custom name. Use either HTML or Markdown to link to your blog posts from your `index.md` or `README.md` file.
 
-**When you create new files or folders, do not include spaces or special characters in the file or folder name. Instead use, hyphens, underscores, camelCasing, or PascalCasing to indicate multiple words.**
+When you create new files or folders, do not include spaces or special characters in the file or folder name. Instead use, hyphens, underscores, camelCasing, or PascalCasing to indicate multiple words.
 
 Example:
- `Code School.md` is an invalid file name.
+ `Code School.md` is an invalid file name. ❌
 
-`codeSchool.md`, `CodeSchool.md`, `Code-School.md`, and `Code_School.md` are all valid patterns.
+`codeSchool.md`, `CodeSchool.md`, `Code-School.md`, and `Code_School.md` are all valid patterns. ✅
+
 
 
 ## Code School Projects
