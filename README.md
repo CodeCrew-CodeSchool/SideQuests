@@ -19,7 +19,7 @@ The new files can have their own custom name. Use either HTML or Markdown to lin
 **When you create new files or folders, do not include spaces or special characters in the file or folder name. Instead use, hyphens, underscores, camelCasing, or PascalCasing to indicate multiple words.**
 
 Example:
- `Code School.md` is an invalid file name
+ `Code School.md` is an invalid file name.
 
 `codeSchool.md`, `CodeSchool.md`, `Code-School.md`, and `Code_School.md` are all valid patterns.
 
