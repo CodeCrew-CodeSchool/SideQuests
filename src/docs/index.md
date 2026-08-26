@@ -22,7 +22,7 @@ Below you'll find our initial setup guide to get started with course work, the c
 
 [DJ](/Blog/Staff/DJ)
 
-[Dili](/Blog/Staff/Dili/1-GrowthMindset)
+[Dili](/Blog/Staff/Dili)
 
 ### Student Blogs
 
