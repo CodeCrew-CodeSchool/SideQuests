@@ -4,7 +4,7 @@
 
 Below you'll find our initial setup guide to get started with course work, the curriculum table of contents and links to additional materials to aid you in any specializations (Side Quests) you may want to pursue as you progress through the course.
 
-## [Student Handbook](https://drive.google.com/file/d/1CnT0t1RcZPSuZAGeUpqCUNUz6HI1OI8e/view?usp=sharing)
+## [Student Handbook](https://drive.google.com/file/d/1-Abrjb8h9iIJDqaLmHlBCuuvd3DYjUYe/view?usp=sharing)
 
 ## Setup Guides
 
@@ -25,6 +25,8 @@ Below you'll find our initial setup guide to get started with course work, the c
 [Dili](/Blog/Staff/Dili/1-GrowthMindset)
 
 ### Student Blogs
+
+[2026 Summer Part Time Cohort](/Blog/2026/)
 
 [202508 Cohort](/Blog/2025/)
 
