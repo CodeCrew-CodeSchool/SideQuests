@@ -22,7 +22,7 @@ Use the sidebar or start with these entries to navigate:
 
 [Ronnie](/Blog/2026/)
 
-[Christian Freire-Paredes](/Blog/2026/)
+[Cristian Freire-Paredes](/Blog/2026/)
 
 [Tevin](/Blog/2026/)
 
