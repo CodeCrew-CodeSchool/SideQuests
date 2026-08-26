@@ -9,3 +9,4 @@ you might find a haiku here.
 Please enjoy the blog!
 
 [Growth Mindset](1-GrowthMindset.md)
+[HTML](2-HTML.md)

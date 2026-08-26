@@ -1,10 +1,28 @@
-# Side Quests - Things to Do On Your Adventure thru Computer Science
+# Side Quests - Things to Do on Your Adventure through Computer Science
 
 ## Student Blogs
 
-In the /Blog/20XX/ folder, 20XX should match the year you joined CodeSchool, add a folder with your name on it. 
-It should contain a single file titled index.md or README.md along with a folder titled Portfolio.
-Continue adding files that have their own custom name and use either HTML or Markdown to link between your blog posts. C
+1. In the /Blog/20XX/ folder, 20XX should match the year you joined CodeSchool, add a folder with your name on it. 
+
+2. In the folder that you created for your name:
+
+- Create a single file titled `index.md` or `README.md` This file will serve as the home page for your personal section of the blog website.
+
+- The file name for this first file (either `index.md` or `README.md`) is case sensitive and must be written exactly as displayed here.
+
+- Then create a folder titled Portfolio.
+
+3. To add more blog posts. Continue creating files in the folder you created with your name. 
+
+The new files can have their own custom name. Use either HTML or Markdown to link to your blog posts from your `index.md` or `README.md` file.
+
+**When you create new files or folders, do not include spaces or special characters in the file or folder name. Instead use, hyphens, underscores, camelCasing, or PascalCasing to indicate multiple words.**
+
+Example:
+ `Code School.md` is an invalid file name
+
+`codeSchool.md`, `CodeSchool.md`, `Code-School.md`, and `Code_School.md` are all valid patterns.
+
 
 ## Code School Projects
 
@@ -23,12 +41,12 @@ To build and run the curriculum site locally,
 1. Download Python [here](https://www.python.org/downloads/)
 2. From a command line, go to your SIDEQUESTS folder and run
 
-    pip install mkdocs
+    `pip install mkdocs`
 
-    pip install mkdocs-material
+    `pip install mkdocs-material`
 
-    cd src
+    `cd src`
     
-    mkdocs build
+    `mkdocs build`
     
-    mkdocs serve
+    `mkdocs serve`

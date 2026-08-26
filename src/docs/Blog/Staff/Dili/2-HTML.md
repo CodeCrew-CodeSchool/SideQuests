@@ -1,12 +1,12 @@
 # HTML
 
-HTML is the hypertext markup language. It is use to define the structure of a webpage
+HTML is the hypertext markup language. It is used to define the structure of a webpage
 
 
 
-Like a mountain pass
+Like a mountain pass,
 
-HTML gives structure,
+HTML has structure
 
 to many websites
 
