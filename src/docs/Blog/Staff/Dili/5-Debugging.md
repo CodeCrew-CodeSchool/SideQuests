@@ -1,5 +1,11 @@
 # Debugging
 
+Step by step by step,
+
+The frustration will soon clear.
+
+Human: one who errs.
+
 
 ![Patrick Helps Spongebob Debug](../../../Imgs/Dili/Debugging.gif)
 
