@@ -1,0 +1,1 @@
+I am enjoying learning these new concepts, but it is challenging.
