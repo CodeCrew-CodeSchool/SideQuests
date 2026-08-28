@@ -20,7 +20,7 @@ Use the sidebar or start with these entries to navigate:
 
 [Kenneth](/Blog/2026/)
 
-[Ronnie](/Blog/2026/)
+[Ronnie](/Blog/2026/thefranklincollective)
 
 [Cristian Freire-Paredes](/Blog/2026/Bytes-and-Bones)
 
