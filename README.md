@@ -2,6 +2,8 @@
 
 ## Student Blogs
 
+You do not need to Fork this repository before cloning it.
+
 1. In the src/docs/Blog/20XX/ folder, 20XX should match the year you joined CodeSchool, add a folder with your github username on it. 
 
 2. In the folder that you created for your username:

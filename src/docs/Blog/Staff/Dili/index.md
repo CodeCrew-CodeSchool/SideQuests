@@ -11,6 +11,20 @@ you might find a haiku here.
 Please enjoy the blog!
 
 
+## Blog Entries:
 
 [Growth Mindset](1-GrowthMindset.md)
+
 [HTML](2-HTML.md)
+
+[CSS](3-CSS.md)
+
+[JavaScript](4-JavaScript.md)
+
+[Debugging](5-Debugging.md)
+
+## Portfolio Projects:
+
+[Clyde](./Portfolio/Clyde.md)
+
+[Emotion Detection from Images](./Portfolio/EmotionDetector.md)

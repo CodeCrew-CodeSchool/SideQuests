@@ -4,6 +4,8 @@
 
 ### Part 1: Clone the Repo
 
+You do not need to Fork this repository before cloning it.
+
 
 [VSCode Source Control](https://code.visualstudio.com/docs/sourcecontrol/overview)
 
@@ -26,7 +28,7 @@
 When you create new files or folders, do not include spaces or special characters in the file or folder name. Instead use hyphens, underscores, camelCasing, or PascalCasing to indicate multiple words.
 
 Example:
- `Code School.md` is an invalid file name. ❌
+`Code School.md` is an invalid file name. ❌
 
 `codeSchool.md`, `CodeSchool.md`, `Code-School.md`, and `Code_School.md` are all valid patterns. ✅
 
