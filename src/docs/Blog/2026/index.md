@@ -49,4 +49,3 @@ Use the sidebar or start with these entries to navigate:
 [Briana](/Blog/2026/)
 
 [Christian Williams](/Blog/2026/)
-

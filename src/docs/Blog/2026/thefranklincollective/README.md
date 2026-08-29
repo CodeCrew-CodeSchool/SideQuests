@@ -11,4 +11,3 @@ This is what is included in the Blog:
 - Growth Mindset
 
 [GitHub Profile](https://github.com/thefranklincollective)
-
