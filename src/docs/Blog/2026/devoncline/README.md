@@ -10,6 +10,9 @@ This is where I will document what I learn throughout my time at *CodeCrew*.
 - [Growth Mindset](Module1/GrowthMindset.md)
 - [Day 1](Module1/Week1Day01.md)
 - [Day 2](Module1/Week1Day02.md)
+- [Day 3](Module1/Week1Day03.md)
+- [Day 4](Module1/Week1Day04.md)
+- [Day 5](Module1/Week1Day05.md)
 
 ---
 
