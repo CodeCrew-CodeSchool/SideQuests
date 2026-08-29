@@ -9,4 +9,6 @@ Tablet of contents:
 
 - <a href="https://github.com/jillianbcknr14-hub/module01_week00_day01.git">Module 0 Day 1</a> 
 
+- This blog counts as Module 01 week 00 Day 2 assignment
+
 My Github Profile can be found <a href="https://github.com/jillianbcknr14-hub">here.</a>
