@@ -5,7 +5,7 @@ Projects, big and small, can be seen here and will be added periodically.
 
 Tablet of contents:
 
-- <a href="GrowthMindset.md">Growth Mindset</a>
+- <a href="GrowthMind.md">Growth Mindset</a>
 
 - TBD
 
