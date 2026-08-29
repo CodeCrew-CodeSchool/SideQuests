@@ -9,3 +9,6 @@ This is what is included in the Blog:
 ### TABLE OF CONTENTS
 
 - Growth Mindset
+
+[GitHub Profile](https://github.com/thefranklincollective)
+

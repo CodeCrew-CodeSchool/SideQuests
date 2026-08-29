@@ -5,8 +5,10 @@ Projects, big and small, can be seen here and will be added periodically.
 
 Tablet of contents:
 
-- <a href="GrowthMindset.md">Growth Mindset</a>
+- <a href="https://sidequests.onrender.com/Blog/2026/JillianBcknr14-hub/GrowthMind/">Growth Mindset</a>
 
-- TBD
+- <a href="https://github.com/jillianbcknr14-hub/module01_week00_day01.git">Module 0 Day 1</a> 
+
+- This blog counts as Module 01 week 00 Day 2 assignment
 
 My Github Profile can be found <a href="https://github.com/jillianbcknr14-hub">here.</a>
