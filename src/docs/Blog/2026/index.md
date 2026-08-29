@@ -20,7 +20,7 @@ Use the sidebar or start with these entries to navigate:
 
 [Kenneth](/Blog/2026/)
 
-[Ronnie](/Blog/2026/)
+[Ronnie](/Blog/2026/thefranklincollective)
 
 [Cristian Freire-Paredes](/Blog/2026/Bytes-and-Bones)
 
@@ -38,7 +38,7 @@ Use the sidebar or start with these entries to navigate:
 
 [Henock](/Blog/2026/)
 
-[Daniel](/Blog/2026/)
+[Daniel](/Blog/2026/DanCuttinUp)
 
 [Imani](/Blog/2026/)
 
@@ -49,3 +49,4 @@ Use the sidebar or start with these entries to navigate:
 [Briana](/Blog/2026/)
 
 [Christian Williams](/Blog/2026/)
+
