@@ -7,6 +7,6 @@ Tablet of contents:
 
 - <a href="GrowthMind.md">Growth Mindset</a>
 
-- TBD
+- <a href="https://github.com/jillianbcknr14-hub/module01_week00_day01.git">Module 0 Day 1</a> 
 
 My Github Profile can be found <a href="https://github.com/jillianbcknr14-hub">here.</a>
