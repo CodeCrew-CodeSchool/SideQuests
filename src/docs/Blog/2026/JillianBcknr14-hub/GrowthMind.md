@@ -12,7 +12,6 @@ A growth mindset also knows when to step back and reflect when difficulties beco
 
 <lu>
 
-
 <li> Ask questions, and when needed, ask for help. </li>
 <li> Try my best in every module and complete every assignment.</li>
 <li> Read outside sources to continue to learn. </li>
