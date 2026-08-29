@@ -6,3 +6,5 @@ Projects, big and small, can be seen here and will be added periodically.
 Tablet of contents:
 
 TBD
+
+My Github Profile can be found <a href="https://github.com/jillianbcknr14-hub">here.</a>
