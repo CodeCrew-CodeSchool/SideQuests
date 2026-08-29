@@ -6,6 +6,6 @@ These notes come straight from the mind of Ronnie.
 
 This is what is included in the Blog:
 
-#### TABLE OF CONTENTS
+### TABLE OF CONTENTS
 
 - Growth Mindset
