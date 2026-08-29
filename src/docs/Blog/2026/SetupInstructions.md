@@ -4,6 +4,8 @@
 
 ### Part 1: Clone the Repo
 
+You do not need to Fork this repository before cloning it.
+
 
 [VSCode Source Control](https://code.visualstudio.com/docs/sourcecontrol/overview)
 
