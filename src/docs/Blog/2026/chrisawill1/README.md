@@ -1,0 +1,3 @@
+<p>About Me<p>
+
+<p>My name is Christian and one of my favorite musical artists is Teezo Touchdown. His music has a radical whimsicality that permeates all of his work. His music combines genres and styles that sound both familar and brand new. Some of my favorite songs by him are Fan, 5'o Clock, Rock-Paper-Stripers and Sweet. There are so many more that I have come to sing all the time. A good handful of his music might sound like nonsense or surface level lyrism. But when you really listen to his words and the swell of themusic, alot of his tracks have deep meanings and personal stories. I love his work and look forward to his new releases.<p>
