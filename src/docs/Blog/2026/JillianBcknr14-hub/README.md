@@ -1,3 +1,8 @@
-Portfolio Introduction
+# Hello, stranger, this is my blog!
 
-This is the place that holds my journey with Code School!
+My name is Jillian and here you will find my progress through Code School.
+Projects, big and small, can be seen here and will be added periodically.
+
+Tablet of contents:
+
+TBD
