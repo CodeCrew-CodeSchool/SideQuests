@@ -1,1 +1,1 @@
-This is Briana, sinc starting the first day I have learned how to fork a repository, git push, git clone, and git pull. I am now able to create my own respositories and pusdh them.
+This is Briana, since starting the first day I have learned how to fork a repository, git push, git clone, and git pull. I am now able to create my own respositories and pusdh them.
