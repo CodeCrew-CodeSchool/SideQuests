@@ -38,7 +38,7 @@ Use the sidebar or start with these entries to navigate:
 
 [Henock](/Blog/2026/)
 
-[Daniel](/Blog/2026/)
+[Daniel](/Blog/2026/DanCuttinUp)
 
 [Imani](/Blog/2026/)
 
