@@ -1,0 +1,99 @@
+site_name: Code School SideQuests
+site_url: https://sidequests.onrender.com
+site_author: dij
+site_description: Code School SideQuests allows students to tackle the wider world of Computer Science and document their Personal Journeys and Developments as they learn Software Development and BEYOND
+copyright: Powered by CodeCrew
+docs_dir: docs
+# nav:
+#   - 'Home': 'index.md'
+#   - 'READ':
+#     - 'READ':
+#       - 'Day 1': '/CS_Curriculum/Module_1/Week 00_HTML CSS GIT/Week 00_HTML CSS GIT_Day 01'
+#       - 'Lesson': '/CS_Curriculum/Module_1/Week 00_HTML CSS GIT/Week 00_HTML CSS GIT_Day 01/Lesson'
+#       - 'Setup': '/CS_Curriculum/Module_1/Week 00_HTML CSS GIT/Week 00_HTML CSS GIT_Day 01/Setup'
+#       - 'Verify': '/CS_Curriculum/Module_1/Week 00_HTML CSS GIT/Week 00_HTML CSS GIT_Day 01/Setup/Verify'
+  # - 'Module 1': 
+  #   - 'Overview': '/CS_Curriculum/Module_1/Module1_Overview'
+  #   - 'Week 00': '/CS_Curriculum/Module_1/Week 00_HTML CSS GIT/'
+  #     # - 'READ':
+  #     #   - 'Day 1': '/CS_Curriculum/Module_1/Week 00_HTML CSS GIT/Week 00_HTML CSS GIT_Day 01'
+  #     #   - 'Day 2': '/CS_Curriculum/Module_1/Week 00_HTML CSS GIT/Week 00_HTML CSS GIT_Day 01'
+  #     #   - 'Day 3': '/CS_Curriculum/Module_1/Week 00_HTML CSS GIT/Week 00_HTML CSS GIT_Day 01'
+  #     #   - 'Day 4': '/CS_Curriculum/Module_1/Week 00_HTML CSS GIT/Week 00_HTML CSS GIT_Day 01'
+  #     #   - 'Day 5': '/CS_Curriculum/Module_1/Week 00_HTML CSS GIT/Week 00_HTML CSS GIT_Day 01'
+      
+  #   - 'Week 01': '/CS_Curriculum/Module_1/Week 01_HTML CSS GIT/'
+  #   - 'Week 02': '/CS_Curriculum/Module_1/Week 02_HTML CSS GIT/'
+  # - 'Module 2':
+  #   - 'Overview': '/CS_Curriculum/Module_2/Module2_Overview'
+  #   - 'Week 03': '/CS_Curriculum/Module_2/Week 03_Javascript'
+  #   - 'Week 04': '/CS_Curriculum/Module_2/Week 04_Javascript/'
+  #   - 'Week 05': '/CS_Curriculum/Module_2/Week 05_Javascript/'
+  #   - 'Week 06': '/CS_Curriculum/Module_2/Week 06_Javascript/'
+  # - 'Module 3':
+  #   - 'Overview': '/CS_Curriculum/Module_3/Module3_Overview'
+  #   - 'Week 07': '/CS_Curriculum/Module_3/Week 07_React Node Express/'
+  #   - 'Week 08': '/CS_Curriculum/Module_3/Week 08_React Node Express/'
+  #   - 'Week 09': '/CS_Curriculum/Module_3/Week 09_React Node Express/'
+  #   - 'Week 10': '/CS_Curriculum/Module_3/Week 10_React Node Express/'
+  #   - 'Week 11': '/CS_Curriculum/Module_3/Week 11_React Node Express/'
+  #   - 'Week 12': '/CS_Curriculum/Module_3/Week 12_React Node Express/'
+  #   - 'Week 13': '/CS_Curriculum/Module_3/Week 13_React Node Express/'
+  #   - 'Week 14': '/CS_Curriculum/Module_3/Week 14_React Node Express/'
+  # - 'Module 4':
+  #   - 'Overview': '/CS_Curriculum/Module_4/Module4_Overview'
+  #   - 'Week 15': '/CS_Curriculum/Module_4/Week 15_C# .Net/'
+  #   - 'Week 16': '/CS_Curriculum/Module_4/Week 16_C# .Net/'
+  #   - 'Week 17': '/CS_Curriculum/Module_4/Week 17_C# .Net/'
+  #   - 'Week 18': '/CS_Curriculum/Module_4/Week 18_C# .Net/'
+  #   - 'Week 19': '/CS_Curriculum/Module_4/Week 19_SQL/'
+  #   - 'Week 20': '/CS_Curriculum/Module_4/Week 20_SQL/'
+  #   - 'Week 21': '/CS_Curriculum/Module_4/Week 21_SQL/'
+  #   - 'Week 22': '/CS_Curriculum/Module_4/Week 22_SQL/'
+  #   - 'Week 23': '/CS_Curriculum/Module_4/Week 23_Azure/'
+  #   - 'Week 24': '/CS_Curriculum/Module_4/Week 24_Azure/'
+  #   - 'Week 25': '/CS_Curriculum/Module_4/Week 25_Azure/'
+  #   - 'Week 26': '/CS_Curriculum/Module_4/Week 26_Azure/'
+  #   - 'Week 27': '/CS_Curriculum/Module_4/Week 27_Unity/'
+  #   - 'Week 28': '/CS_Curriculum/Module_4/Week 28_Unity/'
+  # - 'CS Projects':
+  #   - 'Available Projects': '/CS_Curriculum/CS_Projects/'
+
+# theme:
+#   name: material
+#   nav_style: success
+#   custom_dir: custom
+theme:
+  name: material
+  logo: Imgs/icon.png
+  favicon: Imgs/icon.png
+  features:
+    - navigation.footer
+  # custom_dir: custom
+  exclude_docs: /CS_Curriculum
+  palette:
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: light blue
+      accent: cyan
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+        
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: light blue
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+        
+
+# extra_css:
+#   - lib.min.css
+# extra_javascript:
+#   - lib.min.js
+# exclude_docs: |
+#   /test.js               # Excludes e.g. docs/test.js

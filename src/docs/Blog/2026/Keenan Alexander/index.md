@@ -1,0 +1,3 @@
+This is Keenan Alexander and this is a introduction to computer science on a different level. The CodeCrew cohort of 2026 are in module 1 and there has been a little learning curve but that goes for anything new that we learn. I understand this is not a journey traveled alone but this is a learning experience done in community, just as the work envirnoment of a Software Engineer. I'm ready for the jounrey.
+
+Keenan Alexander
