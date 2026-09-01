@@ -1,1 +1,0 @@
-[Linux Wargames](https://overthewire.org/wargames/bandit/)
