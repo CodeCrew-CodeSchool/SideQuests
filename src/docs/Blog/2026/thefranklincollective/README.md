@@ -1,13 +1,12 @@
-# WELCOME TO RONNIE'S NOTES
+# Ronnie's Blog
+---
+Welcome to my Blog!
 
-These notes come straight from the mind of Ronnie.
+I will be sharing all of thoughts and projects from my time in Code School!
 
-### ABOUT THIS BLOG
 
-This is what is included in the Blog:
+- [GrowthMindset.md](Growth Mindset)
 
-### TABLE OF CONTENTS
 
-- Growth Mindset
 
-[GitHub Profile](https://github.com/thefranklincollective)
+[https://github.com/thefranklincollective](GitHub Profile)

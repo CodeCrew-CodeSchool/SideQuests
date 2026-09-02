@@ -1,4 +1,4 @@
-#Growth Mindset
+# Growth Mindset
 
 **I best understand growth mindset with these 3 domains:**  
 Adaptability and Discernment 
