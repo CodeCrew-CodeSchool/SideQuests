@@ -1,12 +1,14 @@
 # Ronnie's Blog
 ---
-Welcome to my Blog!
+![Spongebob Meme](https://makeameme.org/media/templates/tough_spongebob_i_ll_have_you_know.jpg)
 
-I will be sharing all of thoughts and projects from my time in Code School!
+Welcome to my _Blog_!
 
-
-- [GrowthMindset.md](Growth Mindset)
-
+I will be sharing all of thoughts and projects from my time in **CodeCrew Code School**!
 
 
-[https://github.com/thefranklincollective](GitHub Profile)
+- [Growth Mindset](GrowthMindset.md)
+- [Day 1 of Code School](Portfolio/Day1.md)
+
+
+[GitHub Profile](https://github.com/thefranklincollective)
