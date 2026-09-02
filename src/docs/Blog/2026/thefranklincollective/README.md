@@ -8,7 +8,7 @@ I will be sharing all of thoughts and projects from my time in **CodeCrew Code S
 
 
 - [Growth Mindset](GrowthMindset.md)
-- [Day 1 of Code School](Day1.md)
+- [Day 1 of Code School](Portfolio/Day1.md)
 
 
 [GitHub Profile](https://github.com/thefranklincollective)
