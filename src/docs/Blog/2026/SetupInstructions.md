@@ -19,16 +19,19 @@ You do not need to Fork this repository before cloning it.
 
 2. In the folder that you created for your username:
 
-- Create a single file titled `index.md` or `README.md` This file will serve as the home page for your personal section of the blog website.
+- Create a single file titled `index.md`, `source.md` or `README.md` This file will serve as the home page for your personal section of the blog website.
 
-- The file name for this first file (either `index.md` or `README.md`) is case sensitive and must be written exactly as displayed here.
+- The file name for this first file (either `index.md`, `source.md` , or `README.md`) is case sensitive and must be written exactly as displayed here.
+
+- Every folder you create in this repo will need to have one of these files
 
 3. To add more blog posts. Continue creating files in the folder you created with your username. 
 
 When you create new files or folders, do not include spaces or special characters in the file or folder name. Instead use hyphens, underscores, camelCasing, or PascalCasing to indicate multiple words.
 
 Example:
-`Code School.md` is an invalid file name. ❌
+`Code School.md` is an invalid file or folder name because it has a space. ❌
+`Code @School#00` is also an invalid file or folder name. ❌
 
 `codeSchool.md`, `CodeSchool.md`, `Code-School.md`, and `Code_School.md` are all valid patterns. ✅
 
