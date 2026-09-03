@@ -4,7 +4,7 @@
 
 ### Having a growth mindset is giving yourself the space to not know something without giving up. 
 
-### Having a growth mindset is having the abilitiy to look at other peoples ideas/perspective to see if their helpful.
+### Having a growth mindset is having the abilitiy to look at other peoples perspective. It just may be helpful.
 
 ### Having a growth mindset means your willing to find a solution for a problem.
 
