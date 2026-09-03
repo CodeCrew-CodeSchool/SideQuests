@@ -2,8 +2,6 @@
 
 >  August 31st 2026
 
-! [motivation quote photo] (https://i.etsystatic.com/59635411/r/il/d17bf4/7769781734/il_1588xN.7769781734_ljpt.jpg)
-
 ### Having a growth mindset is giving yourself the space to not know something without giving up. 
 
 ### Having a growth mindset is having the abilitiy to look at other peoples ideas/perspective to see if their helpful.
@@ -24,6 +22,3 @@
 ### 4. Reward yourself for small wins.
 ### 5. Schedule 1 Hour Focus Blocked
 ### 6. Give yourself time to learn.
-
-![growth mindset tips ] (![alt text](<Growth Mindset Tip #001-1.png>))
->>>>>>> parent of 530d812 (Updated growth mindset tips)
