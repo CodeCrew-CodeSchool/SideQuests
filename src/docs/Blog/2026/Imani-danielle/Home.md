@@ -8,7 +8,7 @@ This is where I’ll document my learning, growth, and experiences throughout my
 
 
 ## Table of Contents
-![Growth Mindset] (https://sidequests.onrender.com/Blog/2026/Imani-danielle/1-GrowthMindset/))
+[Growth Mindset](https://sidequests.onrender.com/Blog/2026/Imani-danielle/1-GrowthMindset/))
 
 ---
 
