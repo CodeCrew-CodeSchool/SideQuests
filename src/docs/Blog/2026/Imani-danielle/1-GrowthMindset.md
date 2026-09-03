@@ -22,3 +22,5 @@
 ### 4. Reward yourself for small wins.
 ### 5. Schedule 1 Hour Focus Blocked
 ### 6. Give yourself time to learn.
+
+[Home](https://sidequests.onrender.com/Blog/2026/Imani-danielle/Home/)
