@@ -1,3 +1,20 @@
+>  Blog Post #1
+
+>  August 31st 2026
+
+! [motivation quote photo] (https://i.etsystatic.com/59635411/r/il/d17bf4/7769781734/il_1588xN.7769781734_ljpt.jpg)
+
+### Having a growth mindset is giving yourself the space to not know something without giving up. 
+
+### Having a growth mindset is having the abilitiy to look at other peoples ideas/perspective to see if their helpful.
+
+### Having a growth mindset means your willing to find a solution for a problem.
+
+# 3 TIPS  TO KEEP A GROWTH MINDSET
+### 1. Don't let a bug, error message, or failed project convince you to quit because every developer learns by solving problems.
+### 2. Any app, website, or software idea you can imagine, can be built by learning and applying the right skills one step at a time.
+### 3. When you feel stuck, take a short break and come back with a fresh mindset to see the problem from a new perspective.
+=======
 ## Growth Mindset Tip 
 
 
@@ -9,3 +26,4 @@
 ### 6. Give yourself time to learn.
 
 ![growth mindset tips ] (![alt text](<Growth Mindset Tip #001-1.png>))
+>>>>>>> parent of 530d812 (Updated growth mindset tips)
