@@ -4,11 +4,11 @@
 
 ## About This Blog
 
-This is where I’ll document my learning, growth, and experiences throughout my journey at **CodeCrew**.
+This is where I’ll document my learning, growth, and experiences throughout my journey Software Developer at **CodeCrew**.
 
 
 ## Table of Contents
-- [Growth Mindset](C:\Users\Student-99\Desktop\Blog Journey\SideQuests\src\docs\Blog\2026\Imani-danielle\index.md)
+- [Growth Mindset] (https://sidequests.onrender.com/Blog/2026/Imani-danielle/1-GrowthMindset/))
 
 ---
 
