@@ -1,11 +1,14 @@
-# WELCOME TO RONNIE'S NOTES
+# Ronnie's Blog
+---
+![Spongebob Meme](https://makeameme.org/media/templates/tough_spongebob_i_ll_have_you_know.jpg)
 
-These notes come straight from the mind of Ronnie.
+Welcome to my _Blog_!
 
-### ABOUT THIS BLOG
+I will be sharing all of thoughts and projects from my time in **CodeCrew Code School**!
 
-This is what is included in the Blog:
 
-### TABLE OF CONTENTS
+- [Growth Mindset](GrowthMindset.md)
+- [Day 1 of Code School](Portfolio/Day1.md)
 
-- Growth Mindset
+
+[GitHub Profile](https://github.com/thefranklincollective)
